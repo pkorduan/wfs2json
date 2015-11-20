@@ -95,11 +95,14 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
       if ($item['einrichtung'] == "")
         if ($item['traeger'] == "")
           if ($item['eigentuemer'] == "")
-            $name = $item['ansprechpartner'];
+            if ($item['ansprechpartner'] == "")
+              $name = $item['angebot'];
+            else
+              $name = $item['ansprechpartner'];
           else
             $name = $item['eigentuemer'];
         else
-          $name = $item['trager'];
+          $name = $item['traeger'];
       else
         $name = $item['einrichtung'];
       $output .= 'name = ' . $name;
