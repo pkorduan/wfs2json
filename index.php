@@ -15,6 +15,15 @@
   print_r($config);
 ?>
 </pre>
+<h2>WFS Online-Resource</h2>
+<?php
+  $get_capabilities_request =
+    $config['wfs']['url'] .
+    'SERVICE=WFS&' .
+    'REQUEST=GetCapabilities&' .
+    'VERSION=1.0.0';
+?>
+Read the Capabilities <a href="<?php echo $get_capabilities_request; ?>" target="_blank">here</a>.
 <h2>Request WFS</h2>
 <?php
   $get_feature_request =
@@ -107,7 +116,9 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
         $name = $item['einrichtung'];
       $output .= 'name = ' . $name;
       $item['name'] = $name;
-      array_push($items, $item);
+      if ($item['kategorie'] != "") {
+        array_push($items, $item);
+      }
     }
   }
   $output .= '</pre>';
