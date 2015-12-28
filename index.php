@@ -116,7 +116,7 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
         $name = $item['einrichtung'];
       $output .= 'name = ' . $name;
       $item['name'] = $name;
-      if ($item['kategorie'] != "") {
+      if (!is_null($item['kategorie'])) {
         array_push($items, $item);
       }
     }
