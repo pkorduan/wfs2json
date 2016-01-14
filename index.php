@@ -101,7 +101,7 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
         }
         $output .= '<br>';
       }
-      if ($item['einrichtung'] == "")
+/*      if ($item['einrichtung'] == "")
         if ($item['traeger'] == "")
           if ($item['eigentuemer'] == "")
             if ($item['ansprechpartner'] == "")
@@ -116,6 +116,7 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
         $name = $item['einrichtung'];
       $output .= 'name = ' . $name;
       $item['name'] = $name;
+*/
       if (!is_null($item['kategorie'])) {
         array_push($items, $item);
       }

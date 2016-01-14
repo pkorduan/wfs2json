@@ -85,78 +85,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.5">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>266516.846672,5915150.062876 266516.846672,5915150.062876</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>266516.846672,5915150.062876</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>5</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot></pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Rudolf-Tarnow-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>13</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>VEWOBA Wohnungsbaugesellschaft Ludwigslust mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Harry Lutzke</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon></pflegeportal:telefon>
-        <pflegeportal:email>h.lutzke@vewoba.de</pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>22</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.8">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>288998.887359,5924104.513791 288998.887359,5924104.513791</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>288998.887359,5924104.513791</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>8</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Hans-Beimler-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>35-41</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
-        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>70</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.13">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -224,78 +152,6 @@
         <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.15">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247093.667110,5926811.453631 247093.667110,5926811.453631</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247093.667110,5926811.453631</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>15</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Fritz-Reuter Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>5</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Michael Hasche</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 615413</pflegeportal:telefon>
-        <pflegeportal:email>m.hasche@hagenower-wobau.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.hagenower-wobau.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>16</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.16">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>214995.306401,5923392.607897 214995.306401,5923392.607897</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>214995.306401,5923392.607897</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>16</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>ASB Betreutes Wohnen für Senioren</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Schwanheider Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>17</pflegeportal:hnr>
-        <pflegeportal:plz>19258</pflegeportal:plz>
-        <pflegeportal:gemeinde>Boizenburg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076014</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Wölter</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038847 450000</pflegeportal:telefon>
-        <pflegeportal:email>info@asb-boizenburg.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.asb-boizenburg.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>167</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
         <pflegeportal:aenderung></pflegeportal:aenderung>
       </pflegeportal:Sozialpflege>
@@ -402,42 +258,6 @@
         <pflegeportal:email></pflegeportal:email>
         <pflegeportal:internet></pflegeportal:internet>
         <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.29">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>216855.193814,5922494.729109 216855.193814,5922494.729109</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>216855.193814,5922494.729109</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>29</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>ASB Betreutes Wohnen für Senioren</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Weg der Jugend</pflegeportal:strasse>
-        <pflegeportal:hnr>1a, c, d</pflegeportal:hnr>
-        <pflegeportal:plz>19258</pflegeportal:plz>
-        <pflegeportal:gemeinde>Boizenburg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076014</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Wölter</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038847450000</pflegeportal:telefon>
-        <pflegeportal:email>info@asb-boizenburg.de</pflegeportal:email>
-        <pflegeportal:internet>www.asb-boizenburg.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>44</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -1129,6 +949,42 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.16">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>214995.306401,5923392.607897 214995.306401,5923392.607897</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>214995.306401,5923392.607897</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>16</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>ASB Betreutes Wohnen für Senioren Boizenburg</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Schwanheider Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>17</pflegeportal:hnr>
+        <pflegeportal:plz>19258</pflegeportal:plz>
+        <pflegeportal:gemeinde>Boizenburg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076014</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Wölter</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038847 450000</pflegeportal:telefon>
+        <pflegeportal:email>info@asb-boizenburg.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.asb-boizenburg.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>167</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.6">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -1158,6 +1014,150 @@
         <pflegeportal:email></pflegeportal:email>
         <pflegeportal:internet></pflegeportal:internet>
         <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.15">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>247093.667110,5926811.453631 247093.667110,5926811.453631</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>247093.667110,5926811.453631</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>15</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Hagenow</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Fritz-Reuter Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>5</pflegeportal:hnr>
+        <pflegeportal:plz>19230</pflegeportal:plz>
+        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Schulz</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03883 723096</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet>www.volkssolidaritaet-hagenow.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>32</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.29">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>216855.193814,5922494.729109 216855.193814,5922494.729109</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>216855.193814,5922494.729109</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>29</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>ASB Betreutes Wohnen für Senioren Boizenburg</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Weg der Jugend</pflegeportal:strasse>
+        <pflegeportal:hnr>1a, c, d</pflegeportal:hnr>
+        <pflegeportal:plz>19258</pflegeportal:plz>
+        <pflegeportal:gemeinde>Boizenburg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076014</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Wölter</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038847 450000</pflegeportal:telefon>
+        <pflegeportal:email>info@asb-boizenburg.de</pflegeportal:email>
+        <pflegeportal:internet>www.asb-boizenburg.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>44</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.8">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>288998.887359,5924104.513791 288998.887359,5924104.513791</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>288998.887359,5924104.513791</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>8</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Hans-Beimler-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>35-41</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
+        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>70</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.5">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>266516.846672,5915150.062876 266516.846672,5915150.062876</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>266516.846672,5915150.062876</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>5</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Rudolf-Tarnow-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>9-13</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>VEWOBA Wohnungsbaugesellschaft Ludwigslust mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Kuhn</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 421017</pflegeportal:telefon>
+        <pflegeportal:email>h.lutzke@vewoba.de</pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>22</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -1196,366 +1196,6 @@
         <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.49">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>250570.055325,5893643.802653 250570.055325,5893643.802653</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>250570.055325,5893643.802653</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>49</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>SWA Dömitz</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Roggenfelder Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>38</pflegeportal:hnr>
-        <pflegeportal:plz>19303</pflegeportal:plz>
-        <pflegeportal:gemeinde>Dömitz</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076034</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK-Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038758 36911</pflegeportal:telefon>
-        <pflegeportal:email>mdamro-drk-sb@t-online.de</pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>15</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.51">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>256715.440338,5914189.376124 256715.440338,5914189.376124</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>256715.440338,5914189.376124</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>51</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Alten-und Pflegeheim Krenzlin</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Lindenstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>7</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Alt Krenzlin</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076001</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Gutshof-Stiftung Krenzlin</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Gutshof-Stiftung Krenzlin</pflegeportal:traeger>
-        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038751 3360</pflegeportal:telefon>
-        <pflegeportal:email>ph-krenzlin@t-online.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.ph-krenzlin.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>4</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.53">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>269109.463818,5935881.466354 269109.463818,5935881.466354</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>269109.463818,5935881.466354</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>53</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Am Mühlengraben</pflegeportal:strasse>
-        <pflegeportal:hnr>7</pflegeportal:hnr>
-        <pflegeportal:plz>19079</pflegeportal:plz>
-        <pflegeportal:gemeinde>Banzkow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076005</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Ambulanter Lewitz Pflegedienst Birgit Rütz GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Ambulanter Lewitz-Pflegedienst Birgit Rütz GmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03861 303900</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>24</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.54">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>269542.571975,5936615.268197 269542.571975,5936615.268197</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>269542.571975,5936615.268197</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>54</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Straße der Befreiung</pflegeportal:strasse>
-        <pflegeportal:hnr>40</pflegeportal:hnr>
-        <pflegeportal:plz>19079</pflegeportal:plz>
-        <pflegeportal:gemeinde>Banzkow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076005</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Riemann</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038731 562021</pflegeportal:telefon>
-        <pflegeportal:email>ulla.riemann@drk-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>27</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.55">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>271472.530760,5908167.889152 271472.530760,5908167.889152</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>271472.530760,5908167.889152</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>55</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Hufenweg</pflegeportal:strasse>
-        <pflegeportal:hnr>21</pflegeportal:hnr>
-        <pflegeportal:plz>19300</pflegeportal:plz>
-        <pflegeportal:gemeinde>Grabow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076050</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WBV Wohnungsbau- und Wohnungsverwaltungsgesellschaft mbH Grabow</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Kruse</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038756 28010</pflegeportal:telefon>
-        <pflegeportal:email>info@wbv-grabow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wohnen-in-grabow.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>24</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.56">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239196.328731,5912382.098244 239196.328731,5912382.098244</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239196.328731,5912382.098244</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>56</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>DRK Seniorenwohnanlage</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Jessenitzer Chaussee</pflegeportal:strasse>
-        <pflegeportal:hnr>13</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK-Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Henning</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 78492</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>23</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.57">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239031.335096,5913180.075389 239031.335096,5913180.075389</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239031.335096,5913180.075389</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>57</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Seniorenresidenz zur Post</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Kirchenplatz</pflegeportal:strasse>
-        <pflegeportal:hnr>18</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Jessenitzer Aus- und Weiterbildung e.V</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Jessenitzer Aus- und Weiterbildung e.V</pflegeportal:traeger>
-        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Eileen Progmöller</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 7840</pflegeportal:telefon>
-        <pflegeportal:email>info@jawev.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.jawev.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.58">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>238758.638549,5913161.522608 238758.638549,5913161.522608</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>238758.638549,5913161.522608</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>58</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Altersgerechtes Wohnen Schulstraße</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Schulstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>14</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Baugeschäft Rainer Grzebiela GmbH, Hagenow</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Grzebiela</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 62460</pflegeportal:telefon>
-        <pflegeportal:email>kontakt@grzebiela.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.grzebiela.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.59">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>240103.351374,5913171.518601 240103.351374,5913171.518601</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>240103.351374,5913171.518601</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>59</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Das komplexe Pflegezentrum Lobetal</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Lobetal</pflegeportal:strasse>
-        <pflegeportal:hnr>5</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lobetal gGmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Lobetal gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 7070</pflegeportal:telefon>
-        <pflegeportal:email>info@lobetal-luebtheen.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.lobetal-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>16</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.60">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239182.349240,5913418.379128 239182.349240,5913418.379128</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239182.349240,5913418.379128</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>60</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Johann-Stelling-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>15</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
         <pflegeportal:aenderung></pflegeportal:aenderung>
       </pflegeportal:Sozialpflege>
@@ -1741,78 +1381,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.64">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239812.358710,5936236.958156 239812.358710,5936236.958156</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239812.358710,5936236.958156</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>64</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen Wittenburg</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Bürgermeister-Ahrens-Ring</pflegeportal:strasse>
-        <pflegeportal:hnr>4</pflegeportal:hnr>
-        <pflegeportal:plz>19243</pflegeportal:plz>
-        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>AWO Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>AWO Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Martina Sterth</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038852 233264</pflegeportal:telefon>
-        <pflegeportal:email>info@awo-mv.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.awo-mv.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>36</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.65">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>290655.805403,5956051.932390 290655.805403,5956051.932390</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>290655.805403,5956051.932390</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>65</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Kütiner Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>8</pflegeportal:hnr>
-        <pflegeportal:plz>19406</pflegeportal:plz>
-        <pflegeportal:gemeinde>Sternberg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076128</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Diakoniewerk Kloster Dobbertin gGbmH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038735 8950</pflegeportal:telefon>
-        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.kloster-dobbertin.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>15</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.66">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -1842,42 +1410,6 @@
         <pflegeportal:email></pflegeportal:email>
         <pflegeportal:internet></pflegeportal:internet>
         <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.67">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>265980.702681,5913344.100914 265980.702681,5913344.100914</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>265980.702681,5913344.100914</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>67</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Kaplunger Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>40</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Wohnungsbaugenossenschaft Ludwigslust eG</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Volker Möring</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 22067</pflegeportal:telefon>
-        <pflegeportal:email>volker.moering@wohnen-in-ludwigslust.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wohnen-in-ludwigslust.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -2166,6 +1698,438 @@
         <pflegeportal:email>seniorenhof@awo-parchim.de</pflegeportal:email>
         <pflegeportal:internet>www.awo-soziale-dienste.de</pflegeportal:internet>
         <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.49">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>250570.055325,5893643.802653 250570.055325,5893643.802653</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>250570.055325,5893643.802653</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>49</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Seniorenwohnanlage &quot;Elbetal&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Roggenfelder Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>38</pflegeportal:hnr>
+        <pflegeportal:plz>19303</pflegeportal:plz>
+        <pflegeportal:gemeinde>Dömitz</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076034</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>DRK Soziale Betreuungsgesellschaft Ludwigslust mbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Damro</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038758 36911</pflegeportal:telefon>
+        <pflegeportal:email>mdamro-drk-sb@t-online.de</pflegeportal:email>
+        <pflegeportal:internet>www.drksblwl.drkcms.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>15</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.53">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>269109.463818,5935881.466354 269109.463818,5935881.466354</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>269109.463818,5935881.466354</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>53</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Am Mühlengraben</pflegeportal:strasse>
+        <pflegeportal:hnr>7</pflegeportal:hnr>
+        <pflegeportal:plz>19079</pflegeportal:plz>
+        <pflegeportal:gemeinde>Banzkow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076005</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Ambulanter Lewitz Pflegedienst Birgit Rütz GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Ambulanter Lewitz-Pflegedienst Birgit Rütz GmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Eichler</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03861 303900</pflegeportal:telefon>
+        <pflegeportal:email>info@lewitz-pflegedienst.de</pflegeportal:email>
+        <pflegeportal:internet>www.lewitz-pflegedienst.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>24</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.60">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239182.349240,5913418.379128 239182.349240,5913418.379128</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239182.349240,5913418.379128</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>60</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Johann-Stelling-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>15</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.56">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239196.328731,5912382.098244 239196.328731,5912382.098244</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239196.328731,5912382.098244</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>56</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>DRK Seniorenwohnanlage Lübtheen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Jessenitzer Chaussee</pflegeportal:strasse>
+        <pflegeportal:hnr>13</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>DRK Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>DRK Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Henning</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 78492</pflegeportal:telefon>
+        <pflegeportal:email>geschaeftsstelle@drk-lwl.de</pflegeportal:email>
+        <pflegeportal:internet>www.drk-lwl.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>23</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.57">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239031.335096,5913180.075389 239031.335096,5913180.075389</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239031.335096,5913180.075389</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>57</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Seniorenresidenz &quot;Zur Post&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Kirchenplatz</pflegeportal:strasse>
+        <pflegeportal:hnr>18</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Jessenitzer Aus- und Weiterbildung e.V</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Jessenitzer Aus- und Weiterbildung e.V</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Progmöller</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 7840</pflegeportal:telefon>
+        <pflegeportal:email>info@jawev.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.jawev.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.58">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>238758.638549,5913161.522608 238758.638549,5913161.522608</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>238758.638549,5913161.522608</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>58</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Altersgerechtes Wohnen Lübtheen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Schulstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>14</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.59">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>240103.351374,5913171.518601 240103.351374,5913171.518601</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>240103.351374,5913171.518601</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>59</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Lobetal</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Lobetal</pflegeportal:strasse>
+        <pflegeportal:hnr>5</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lobetal gGmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Lobetal gGmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 7070</pflegeportal:telefon>
+        <pflegeportal:email>info@lobetal-luebtheen.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.lobetal-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>16</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.54">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>269534.478529,5936647.405313 269534.478529,5936647.405313</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>269534.478529,5936647.405313</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>54</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>DRK Seniorenwohnanlage Banzkow</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Straße der Befreiung</pflegeportal:strasse>
+        <pflegeportal:hnr>40</pflegeportal:hnr>
+        <pflegeportal:plz>19079</pflegeportal:plz>
+        <pflegeportal:gemeinde>Banzkow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076005</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Riemann</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03861 302148</pflegeportal:telefon>
+        <pflegeportal:email>ulla.riemann@drk-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>23</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.65">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>290655.805403,5956051.932390 290655.805403,5956051.932390</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>290655.805403,5956051.932390</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>65</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Sternberg</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Kütiner Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>8</pflegeportal:hnr>
+        <pflegeportal:plz>19406</pflegeportal:plz>
+        <pflegeportal:gemeinde>Sternberg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076128</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Diakoniewerk Kloster Dobbertin gGbmH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03847 312062</pflegeportal:telefon>
+        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.kloster-dobbertin.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>15</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.67">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>265980.702681,5913344.100914 265980.702681,5913344.100914</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>265980.702681,5913344.100914</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>67</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Kaplunger Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>40</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Wohnungsbaugenossenschaft Ludwigslust eG</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Möring</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 22067</pflegeportal:telefon>
+        <pflegeportal:email>volker.moering@wohnen-in-ludwigslust.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wohnen-in-ludwigslust.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.64">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239812.358710,5936236.958156 239812.358710,5936236.958156</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239812.358710,5936236.958156</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>64</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Wittenburg</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Bürgermeister-Ahrens-Ring</pflegeportal:strasse>
+        <pflegeportal:hnr>4</pflegeportal:hnr>
+        <pflegeportal:plz>19243</pflegeportal:plz>
+        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>AWO Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>AWO Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Schröder</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038852 233264</pflegeportal:telefon>
+        <pflegeportal:email>betreutes-wohnen-wittenburg@awo-ludwigslust.de</pflegeportal:email>
+        <pflegeportal:internet>www.awo-ludwigslust.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>34</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.55">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>271472.530760,5908167.889152 271472.530760,5908167.889152</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>271472.530760,5908167.889152</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>55</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Hufenweg</pflegeportal:strasse>
+        <pflegeportal:hnr>15, 21</pflegeportal:hnr>
+        <pflegeportal:plz>19300</pflegeportal:plz>
+        <pflegeportal:gemeinde>Grabow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076050</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WBV Wohnungsbau- und Wohnungsverwaltungsgesellschaft mbH Grabow</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Kruse</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038756 28010</pflegeportal:telefon>
+        <pflegeportal:email>info@wbv-grabow.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wohnen-in-grabow.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>24</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -6349,42 +6313,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.225">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>318435.621338,5927023.759072 318435.621338,5927023.759072</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>318435.621338,5927023.759072</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>225</pflegeportal:id>
-        <pflegeportal:versorgungsart>Stationäre Pflege</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Kurzzeitpflege (Streuplätze)</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Ev. Altenpflegeheim Dr. Wilde Haus</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Quetziner Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>2</pflegeportal:hnr>
-        <pflegeportal:plz>19395</pflegeportal:plz>
-        <pflegeportal:gemeinde>Plau</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076114</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Schult</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038735 8950</pflegeportal:telefon>
-        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
-        <pflegeportal:internet>www.kloster-dobbertin.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.222">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -6997,6 +6925,42 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.225">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>318439.145504,5927011.948319 318439.145504,5927011.948319</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>318439.145504,5927011.948319</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>225</pflegeportal:id>
+        <pflegeportal:versorgungsart>Stationäre Pflege</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Kurzzeitpflege (Streuplätze)</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Ev. Altenpflegeheim &quot;Dr. Wilde Haus&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Quetziner Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>2</pflegeportal:hnr>
+        <pflegeportal:plz>19395</pflegeportal:plz>
+        <pflegeportal:gemeinde>Plau</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076114</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Schult</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038735 8950</pflegeportal:telefon>
+        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
+        <pflegeportal:internet>www.kloster-dobbertin.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.239">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -7136,78 +7100,6 @@
         <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.269">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>269542.571975,5936615.268197 269542.571975,5936615.268197</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>269542.571975,5936615.268197</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>269</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
-        <pflegeportal:einrichtung>ABWG Mut zum Glücklichsein</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Straße der Befreiung</pflegeportal:strasse>
-        <pflegeportal:hnr>40</pflegeportal:hnr>
-        <pflegeportal:plz>19079</pflegeportal:plz>
-        <pflegeportal:gemeinde>Banzkow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076005</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Ambulanter Lewitz Pflegedienst Birgit Rütz GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Ambulanter Lewitz-Pflegedienst Birgit Rütz GmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03861 302330</pflegeportal:telefon>
-        <pflegeportal:email>info@lewitz-pflegedienst.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.lewitz-pflegedienst.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.298">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>240757.115911,5910558.374718 240757.115911,5910558.374718</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>240757.115911,5910558.374718</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>298</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Lagerstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>13</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
         <pflegeportal:aenderung></pflegeportal:aenderung>
       </pflegeportal:Sozialpflege>
@@ -7398,42 +7290,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.245">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>318435.621338,5927023.759072 318435.621338,5927023.759072</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>318435.621338,5927023.759072</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>245</pflegeportal:id>
-        <pflegeportal:versorgungsart>Stationäre Pflege</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Dauerpflege</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Ev. Altenpflegeheim Dr. Wilde Haus</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Quetziner Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>2</pflegeportal:hnr>
-        <pflegeportal:plz>19395</pflegeportal:plz>
-        <pflegeportal:gemeinde>Plau</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076114</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Schult</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038735 8950</pflegeportal:telefon>
-        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
-        <pflegeportal:internet>www.kloster-dobbertin.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>64</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.266">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -7616,42 +7472,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.292">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239599.589865,5912479.685220 239599.589865,5912479.685220</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239599.589865,5912479.685220</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>292</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Trebser Weg</pflegeportal:strasse>
-        <pflegeportal:hnr>3</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>3</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.267">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -7682,6 +7502,42 @@
         <pflegeportal:email>d.pfeiffer@asb-boizenburg.de</pflegeportal:email>
         <pflegeportal:internet>www.asb-boizenburg.de</pflegeportal:internet>
         <pflegeportal:kapazitaet>20</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.245">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>318441.460461,5927036.752228 318441.460461,5927036.752228</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>318441.460461,5927036.752228</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>245</pflegeportal:id>
+        <pflegeportal:versorgungsart>Stationäre Pflege</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Dauerpflege</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Ev. Altenpflegeheim &quot;Dr. Wilde Haus&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Quetziner Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>2</pflegeportal:hnr>
+        <pflegeportal:plz>19395</pflegeportal:plz>
+        <pflegeportal:gemeinde>Plau</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076114</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Schult</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038735 8950</pflegeportal:telefon>
+        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
+        <pflegeportal:internet>www.kloster-dobbertin.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>64</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -7756,6 +7612,114 @@
         <pflegeportal:kapazitaet>78</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.269">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>269536.737586,5936640.701945 269536.737586,5936640.701945</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>269536.737586,5936640.701945</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>269</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Ambulant betreute WG &quot;Mut zum Glücklichsein&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Straße der Befreiung</pflegeportal:strasse>
+        <pflegeportal:hnr>40</pflegeportal:hnr>
+        <pflegeportal:plz>19079</pflegeportal:plz>
+        <pflegeportal:gemeinde>Banzkow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076005</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Ambulanter Lewitz-Pflegedienst Birgit Rütz GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Ambulanter Lewitz-Pflegedienst Birgit Rütz GmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Eichler</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03861 303900</pflegeportal:telefon>
+        <pflegeportal:email>info@lewitz-pflegedienst.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.lewitz-pflegedienst.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.292">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239599.589865,5912479.685220 239599.589865,5912479.685220</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239599.589865,5912479.685220</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>292</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Trebser Weg</pflegeportal:strasse>
+        <pflegeportal:hnr>3</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>3</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.298">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>240757.115911,5910558.374718 240757.115911,5910558.374718</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>240757.115911,5910558.374718</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>298</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Lagerstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>13</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
         <pflegeportal:aenderung></pflegeportal:aenderung>
       </pflegeportal:Sozialpflege>
@@ -7905,690 +7869,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.272">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>249121.782333,5894614.840068 249121.782333,5894614.840068</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>249121.782333,5894614.840068</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>272</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>DRK Sozialstation Dömitz</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Torstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>21</pflegeportal:hnr>
-        <pflegeportal:plz>19303</pflegeportal:plz>
-        <pflegeportal:gemeinde>Dömitz</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076034</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK-Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038758 22486</pflegeportal:telefon>
-        <pflegeportal:email>drksstdoemitz@t-online.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.drksblwl.drkcms.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>15</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.273">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>307473.648642,5941790.601283 307473.648642,5941790.601283</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>307473.648642,5941790.601283</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>273</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Schützenplatz</pflegeportal:strasse>
-        <pflegeportal:hnr>4</pflegeportal:hnr>
-        <pflegeportal:plz>19399</pflegeportal:plz>
-        <pflegeportal:gemeinde>Goldberg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076048</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Diakoniewerk Kloster Dobbertin gGbmH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038735 8950</pflegeportal:telefon>
-        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>24</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.274">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>270997.717702,5909808.692011 270997.717702,5909808.692011</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>270997.717702,5909808.692011</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>274</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Drosselweg</pflegeportal:strasse>
-        <pflegeportal:hnr>6</pflegeportal:hnr>
-        <pflegeportal:plz>19300</pflegeportal:plz>
-        <pflegeportal:gemeinde>Grabow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076050</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Drewes</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038756 22307</pflegeportal:telefon>
-        <pflegeportal:email>drewes@asb-grabow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.asb-grabow.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>34</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.275">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247007.873497,5926957.959102 247007.873497,5926957.959102</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247007.873497,5926957.959102</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>275</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>DRK-Seniorenanlage</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Friedrich-Heincke-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>4</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>SWA Hagenow</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK-Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Talg</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 725926</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>20</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.276">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247198.489417,5926670.327605 247198.489417,5926670.327605</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247198.489417,5926670.327605</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>276</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Altersgerechtes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Uns Hüsung</pflegeportal:strasse>
-        <pflegeportal:hnr>2</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Boschek</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 723046</pflegeportal:telefon>
-        <pflegeportal:email>info@volkssolidaritaet-hagenow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.volkssolidaritaet-hagenow.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>23</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.277">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247140.518926,5926675.485602 247140.518926,5926675.485602</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247140.518926,5926675.485602</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>277</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Altersgerechtes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Uns Hüsung</pflegeportal:strasse>
-        <pflegeportal:hnr>3</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Boschek</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 723046</pflegeportal:telefon>
-        <pflegeportal:email>info@volkssolidaritaet-hagenow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.volkssolidaritaet-hagenow.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>23</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.278">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247082.488935,5926680.610063 247082.488935,5926680.610063</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247082.488935,5926680.610063</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>278</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Altersgerechtes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Uns Hüsung</pflegeportal:strasse>
-        <pflegeportal:hnr>4</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Boschek</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 723046</pflegeportal:telefon>
-        <pflegeportal:email>info@volkssolidaritaet-hagenow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.volkssolidaritaet-hagenow.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>23</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.279">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247024.439655,5926685.752359 247024.439655,5926685.752359</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247024.439655,5926685.752359</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>279</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Altersgerechtes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Uns Hüsung</pflegeportal:strasse>
-        <pflegeportal:hnr>5</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Boschek</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 723046</pflegeportal:telefon>
-        <pflegeportal:email>info@volkssolidaritaet-hagenow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.volkssolidaritaet-hagenow.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>23</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.280">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>246965.119474,5926690.982207 246965.119474,5926690.982207</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>246965.119474,5926690.982207</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>280</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Altersgerechtes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Uns Hüsung</pflegeportal:strasse>
-        <pflegeportal:hnr>6</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Boschek</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 723046</pflegeportal:telefon>
-        <pflegeportal:email>info@volkssolidaritaet-hagenow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.volkssolidaritaet-hagenow.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>23</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.281">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247840.576090,5927075.426026 247840.576090,5927075.426026</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247840.576090,5927075.426026</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>281</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Möllner Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>13</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Michael Hasche</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 615411</pflegeportal:telefon>
-        <pflegeportal:email>m.hasche@hagenower-wobau.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.hagenower-wobau.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.282">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247808.330784,5927076.723650 247808.330784,5927076.723650</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247808.330784,5927076.723650</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>282</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Möllner Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>17</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Michael Hasche</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 615411</pflegeportal:telefon>
-        <pflegeportal:email>m.hasche@hagenower-wobau.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.hagenower-wobau.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.283">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247362.351575,5927007.002773 247362.351575,5927007.002773</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247362.351575,5927007.002773</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>283</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Robert-Stock-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>6</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Michael Hasche</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 615411</pflegeportal:telefon>
-        <pflegeportal:email>m.hasche@hagenower-wobau.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.hagenower-wobau.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>50</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.284">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239195.880002,5913226.455472 239195.880002,5913226.455472</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239195.880002,5913226.455472</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>284</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Altersgerechtes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Gipsstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>4</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 56000</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.286">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239151.428714,5913331.735649 239151.428714,5913331.735649</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239151.428714,5913331.735649</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>286</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Johann-Stelling-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>5</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>3</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.287">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>270840.781803,5916053.940543 270840.781803,5916053.940543</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>270840.781803,5916053.940543</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>287</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Ludwigsluster Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>62-63</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Groß Laasch</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076058</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Fritz Tiede, Forstweg 3, 19288 Groß Laasch</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Tiede &amp; Partner Hauskrankenpflege</pflegeportal:traeger>
-        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Markus Tiede</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 21751</pflegeportal:telefon>
-        <pflegeportal:email>indo@tiedepartner.de</pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>0</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.288">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>246784.352717,5926643.635544 246784.352717,5926643.635544</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>246784.352717,5926643.635544</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>288</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot></pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Feldstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>3/5</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Michael Hasche</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 615411</pflegeportal:telefon>
-        <pflegeportal:email>m.hasche@hagenower-wobau.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.hagenower-wobau.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.289">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>268692.535936,5952027.940804 268692.535936,5952027.940804</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>268692.535936,5952027.940804</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>289</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Diakoniewerk Neues Ufer gGmbH Betreutes Wohnen Rosenhof</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Blumenstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>19</pflegeportal:hnr>
-        <pflegeportal:plz>19067</pflegeportal:plz>
-        <pflegeportal:gemeinde>Leezen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076082</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Diakoniewerk Neues Ufer gGmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Diakoniewerk Neues Ufer gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon></pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>37</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.290">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239062.081772,5912628.440993 239062.081772,5912628.440993</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239062.081772,5912628.440993</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>290</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Poststraße</pflegeportal:strasse>
-        <pflegeportal:hnr>16</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>4</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.291">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239301.124403,5912772.066158 239301.124403,5912772.066158</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239301.124403,5912772.066158</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>291</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Salzstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>23</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.264">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -8625,7 +7905,223 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.293">
+      <pflegeportal:Sozialpflege fid="Sozialpflege.273">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>307473.648642,5941790.601283 307473.648642,5941790.601283</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>307473.648642,5941790.601283</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>273</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Goldberg</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Schützenplatz</pflegeportal:strasse>
+        <pflegeportal:hnr>4, 6, 8a</pflegeportal:hnr>
+        <pflegeportal:plz>19399</pflegeportal:plz>
+        <pflegeportal:gemeinde>Goldberg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076048</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Diakoniewerk Kloster Dobbertin gGbmH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Meißner</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038736 86158</pflegeportal:telefon>
+        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
+        <pflegeportal:internet>www.kloster-dobbertin.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>24</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.274">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>270997.717702,5909808.692011 270997.717702,5909808.692011</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>270997.717702,5909808.692011</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>274</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Grabow</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Drosselweg</pflegeportal:strasse>
+        <pflegeportal:hnr>6</pflegeportal:hnr>
+        <pflegeportal:plz>19300</pflegeportal:plz>
+        <pflegeportal:gemeinde>Grabow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076050</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Drewes</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038756 22307</pflegeportal:telefon>
+        <pflegeportal:email>drewes@asb-boizenburg.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.asb-boizenburg.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>34</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.289">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>268692.535936,5952027.940804 268692.535936,5952027.940804</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>268692.535936,5952027.940804</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>289</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen &quot;Rosenhof&quot; Leezen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Blumenstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>19</pflegeportal:hnr>
+        <pflegeportal:plz>19067</pflegeportal:plz>
+        <pflegeportal:gemeinde>Leezen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076082</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Diakoniewerk Neues Ufer gGmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Diakoniewerk Neues Ufer gGmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Steiger</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03866 400343</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet>www.neues-ufer.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>36</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>einschl. Whg. in Dahliengasse 3</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.282">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>247808.330784,5927076.723650 247808.330784,5927076.723650</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>247808.330784,5927076.723650</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>282</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Möllner Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>17</pflegeportal:hnr>
+        <pflegeportal:plz>19230</pflegeportal:plz>
+        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Hasche</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03883 615411</pflegeportal:telefon>
+        <pflegeportal:email>m.hasche@hagenower-wobau.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.hagenower-wobau.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.276">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>247198.489417,5926670.327605 247198.489417,5926670.327605</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>247198.489417,5926670.327605</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>276</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Altersgerechtes Wohnen Hagenow</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Uns Hüsung</pflegeportal:strasse>
+        <pflegeportal:hnr>2-6</pflegeportal:hnr>
+        <pflegeportal:plz>19230</pflegeportal:plz>
+        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Schulz</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03883 723096</pflegeportal:telefon>
+        <pflegeportal:email>info@volkssolidaritaet-hagenow.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.volkssolidaritaet-hagenow.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>115</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.275">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>247007.873497,5926957.959102 247007.873497,5926957.959102</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>247007.873497,5926957.959102</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>275</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>DRK Seniorenwohnanlage Hagenow</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Friedrich-Heincke-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>4</pflegeportal:hnr>
+        <pflegeportal:plz>19230</pflegeportal:plz>
+        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>DRK Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>DRK Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Talg</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03883 725926</pflegeportal:telefon>
+        <pflegeportal:email>geschaeftsstelle@drk-lwl.de</pflegeportal:email>
+        <pflegeportal:internet>www.drk-lwl.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>20</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.284">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
         		<gml:coordinates>239195.880002,5913226.455472 239195.880002,5913226.455472</gml:coordinates>
@@ -8636,10 +8132,10 @@
           <gml:coordinates>239195.880002,5913226.455472</gml:coordinates>
         </gml:Point>
         </pflegeportal:msGeometry>
-        <pflegeportal:id>293</pflegeportal:id>
+        <pflegeportal:id>284</pflegeportal:id>
         <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Altersgerechtes Wohnen Lübtheen</pflegeportal:einrichtung>
         <pflegeportal:strasse>Gipsstraße</pflegeportal:strasse>
         <pflegeportal:hnr>4</pflegeportal:hnr>
         <pflegeportal:plz>19249</pflegeportal:plz>
@@ -8648,515 +8144,83 @@
         <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
         <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
         <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
         <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
         <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:internet>www.wowi-luebtheen.de</pflegeportal:internet>
         <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
         <pflegeportal:aenderung></pflegeportal:aenderung>
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.294">
+      <pflegeportal:Sozialpflege fid="Sozialpflege.287">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239074.898072,5912974.455575 239074.898072,5912974.455575</gml:coordinates>
+        		<gml:coordinates>270840.781803,5916053.940543 270840.781803,5916053.940543</gml:coordinates>
         	</gml:Box>
         </gml:boundedBy>
         <pflegeportal:msGeometry>
         <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239074.898072,5912974.455575</gml:coordinates>
+          <gml:coordinates>270840.781803,5916053.940543</gml:coordinates>
         </gml:Point>
         </pflegeportal:msGeometry>
-        <pflegeportal:id>294</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Kirchenplatz</pflegeportal:strasse>
-        <pflegeportal:hnr>8</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>3</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.295">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239284.565057,5913263.807679 239284.565057,5913263.807679</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239284.565057,5913263.807679</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>295</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Gipsstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>7</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>3</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.296">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>238842.212128,5913127.242831 238842.212128,5913127.242831</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>238842.212128,5913127.242831</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>296</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Schulstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>8</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.297">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>240754.732753,5910580.887011 240754.732753,5910580.887011</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>240754.732753,5910580.887011</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>297</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Lagerstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>11</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.299">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>240770.822432,5910425.118115 240770.822432,5910425.118115</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>240770.822432,5910425.118115</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>299</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Lagerstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>25</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.300">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>267208.616279,5914317.618874 267208.616279,5914317.618874</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>267208.616279,5914317.618874</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>300</pflegeportal:id>
+        <pflegeportal:id>287</pflegeportal:id>
         <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
         <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>ASB Betreutes Wohnen für Senioren</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Eichkoppelweg</pflegeportal:strasse>
+        <pflegeportal:einrichtung>Wohnanlage &quot;Lebenslauf I&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Ludwigsluster Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>61-63</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Groß Laasch</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076058</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Fritz Tiede, Forstweg 3, 19288 Groß Laasch</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Hauskrankenpflege Tiede &amp; Partner GbR</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Tiede</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 21751</pflegeportal:telefon>
+        <pflegeportal:email>kontakt@tiedepartner.de</pflegeportal:email>
+        <pflegeportal:internet>www.tiedepartner.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>0</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.281">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>247840.576090,5927075.426026 247840.576090,5927075.426026</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>247840.576090,5927075.426026</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>281</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Möllner Straße</pflegeportal:strasse>
         <pflegeportal:hnr>13</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:plz>19230</pflegeportal:plz>
+        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
         <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger>ASB OV Hagenow / Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Jauert</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 20686</pflegeportal:telefon>
-        <pflegeportal:email>asb-ludwigslust@t-online.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.asb-hgn.de/57/Senioren_und_Pflege/Seniorenarbeit</pflegeportal:internet>
-        <pflegeportal:kapazitaet>28</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.301">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>265687.909761,5913643.031504 265687.909761,5913643.031504</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>265687.909761,5913643.031504</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>301</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen für Senioren</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Suhrlandtstr.</pflegeportal:strasse>
-        <pflegeportal:hnr>19</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Stift Bethlehem</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Schulzke</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 444537</pflegeportal:telefon>
-        <pflegeportal:email>betreutes-wohnen@stift-bethlehem.de</pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>58</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.303">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>266738.886047,5913942.839471 266738.886047,5913942.839471</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>266738.886047,5913942.839471</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>303</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Ambulant betreute WG</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Lindenstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>42</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Tiede &amp; Partner Hauskrankenpflege</pflegeportal:traeger>
-        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon></pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.304">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>266738.886047,5913942.839471 266738.886047,5913942.839471</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>266738.886047,5913942.839471</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>304</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Ambulant betreute WG</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Lindenstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>42</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Tiede &amp; Partner Hauskrankenpflege</pflegeportal:traeger>
-        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon></pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.305">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>270994.619891,5921810.556968 270994.619891,5921810.556968</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>270994.619891,5921810.556968</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>305</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Intensivpflege Wohngemeinschaft</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Seeblick</pflegeportal:strasse>
-        <pflegeportal:hnr>1</pflegeportal:hnr>
-        <pflegeportal:plz>19306</pflegeportal:plz>
-        <pflegeportal:gemeinde>Neustadt-Glewe</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076105</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Sanitas Pflege- und Betreuungs-GmbH Schwerin</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Sanitas Pflege- und Betreuungs-GmbH Schwerin</pflegeportal:traeger>
-        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon></pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.306">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>258748.203626,5941489.416595 258748.203626,5941489.416595</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>258748.203626,5941489.416595</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>306</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>AWO Ambulanter Pflegedienst</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Schweriner Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>43</pflegeportal:hnr>
-        <pflegeportal:plz>19075</pflegeportal:plz>
-        <pflegeportal:gemeinde>Pampow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076107</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>AWO Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>AWO Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Martina Sterth</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03865 844990</pflegeportal:telefon>
-        <pflegeportal:email>info@awo-mv.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.awo-mv.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.307">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>258739.374461,5941483.511576 258739.374461,5941483.511576</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>258739.374461,5941483.511576</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>307</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Wohngemeinschaft Pampow</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Schweriner Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>45</pflegeportal:hnr>
-        <pflegeportal:plz>19075</pflegeportal:plz>
-        <pflegeportal:gemeinde>Pampow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076107</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>AWO Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>AWO Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Martina Sterth</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03865 844990</pflegeportal:telefon>
-        <pflegeportal:email>info@awo-mv.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.awo-mv.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.308">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239579.303783,5936535.729174 239579.303783,5936535.729174</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239579.303783,5936535.729174</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>308</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Große Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>60</pflegeportal:hnr>
-        <pflegeportal:plz>19243</pflegeportal:plz>
-        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Sybill Moß, Wittenburg</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Kahler</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038852 50183</pflegeportal:telefon>
-        <pflegeportal:email>info@volkssolidaritaet-hagenow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.volkssolidaritaet-hagenow.de/sozialstation-wittenburg</pflegeportal:internet>
-        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.309">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239766.632187,5936398.670277 239766.632187,5936398.670277</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239766.632187,5936398.670277</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>309</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen Uns Hüsung</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Schweriner Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>5</pflegeportal:hnr>
-        <pflegeportal:plz>19243</pflegeportal:plz>
-        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Pflegedienst Meyer/Barkholdt -24h Intensiv Care- Schwerin</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Pflegedienst Meyer/Barkholdt -24h Intensiv Care- Schwerin</pflegeportal:traeger>
-        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Meyer</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>0172 3098660</pflegeportal:telefon>
-        <pflegeportal:email>info@pflegedienst-intensiv.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.pflegedienst-intensiv.de/</pflegeportal:internet>
+        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Hasche</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03883 615411</pflegeportal:telefon>
+        <pflegeportal:email>m.hasche@hagenower-wobau.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.hagenower-wobau.de</pflegeportal:internet>
         <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
@@ -9165,35 +8229,35 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.310">
+      <pflegeportal:Sozialpflege fid="Sozialpflege.283">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>267368.687728,5922506.240766 267368.687728,5922506.240766</gml:coordinates>
+        		<gml:coordinates>247362.351575,5927007.002773 247362.351575,5927007.002773</gml:coordinates>
         	</gml:Box>
         </gml:boundedBy>
         <pflegeportal:msGeometry>
         <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>267368.687728,5922506.240766</gml:coordinates>
+          <gml:coordinates>247362.351575,5927007.002773</gml:coordinates>
         </gml:Point>
         </pflegeportal:msGeometry>
-        <pflegeportal:id>310</pflegeportal:id>
+        <pflegeportal:id>283</pflegeportal:id>
         <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen in Wöbbelin</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Theodor-Körner-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>4</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Wöbbelin</pflegeportal:gemeinde>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Robert-Stock-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>6</pflegeportal:hnr>
+        <pflegeportal:plz>19230</pflegeportal:plz>
+        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
         <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076156</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>AWO Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>AWO Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Ulrike Schneck</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 23352</pflegeportal:telefon>
-        <pflegeportal:email>info@awo-ludwigslust.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.awo-mv.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
+        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Hasche</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03883 615411</pflegeportal:telefon>
+        <pflegeportal:email>m.hasche@hagenower-wobau.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.hagenower-wobau.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>50</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -9201,37 +8265,145 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.311">
+      <pflegeportal:Sozialpflege fid="Sozialpflege.291">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>267368.687728,5922506.240766 267368.687728,5922506.240766</gml:coordinates>
+        		<gml:coordinates>239301.124403,5912772.066158 239301.124403,5912772.066158</gml:coordinates>
         	</gml:Box>
         </gml:boundedBy>
         <pflegeportal:msGeometry>
         <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>267368.687728,5922506.240766</gml:coordinates>
+          <gml:coordinates>239301.124403,5912772.066158</gml:coordinates>
         </gml:Point>
         </pflegeportal:msGeometry>
-        <pflegeportal:id>311</pflegeportal:id>
+        <pflegeportal:id>291</pflegeportal:id>
         <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen in Wöbbelin</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Theodor-Körner-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>4</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Wöbbelin</pflegeportal:gemeinde>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Salzstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>23</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
         <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076156</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>AWO Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>AWO Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Ulrike Schneck</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 23352</pflegeportal:telefon>
-        <pflegeportal:email>info@awo-ludwigslust.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.awo-mv.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.288">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>246784.352717,5926643.635544 246784.352717,5926643.635544</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>246784.352717,5926643.635544</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>288</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Feldstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>3/5</pflegeportal:hnr>
+        <pflegeportal:plz>19230</pflegeportal:plz>
+        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Hasche</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03883 615411</pflegeportal:telefon>
+        <pflegeportal:email>m.hasche@hagenower-wobau.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.hagenower-wobau.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.286">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239151.428714,5913331.735649 239151.428714,5913331.735649</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239151.428714,5913331.735649</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>286</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Johann-Stelling-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>5</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>3</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.290">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239062.081772,5912628.440993 239062.081772,5912628.440993</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239062.081772,5912628.440993</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>290</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Poststraße</pflegeportal:strasse>
+        <pflegeportal:hnr>14/16</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>4</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
         <pflegeportal:aenderung></pflegeportal:aenderung>
       </pflegeportal:Sozialpflege>
@@ -9254,6 +8426,42 @@
         <pflegeportal:einrichtung>Fastenrath, Sven</pflegeportal:einrichtung>
         <pflegeportal:strasse>Vor dem Mühlentor</pflegeportal:strasse>
         <pflegeportal:hnr>3</pflegeportal:hnr>
+        <pflegeportal:plz>19258</pflegeportal:plz>
+        <pflegeportal:gemeinde>Boizenburg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076014</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038847 628700</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.351">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>217451.821382,5922563.338582 217451.821382,5922563.338582</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>217451.821382,5922563.338582</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>351</pflegeportal:id>
+        <pflegeportal:versorgungsart>Gesundheit</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Apotheke</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Apotheke am Bahnhof</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Bahnhofstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>30</pflegeportal:hnr>
         <pflegeportal:plz>19258</pflegeportal:plz>
         <pflegeportal:gemeinde>Boizenburg</pflegeportal:gemeinde>
         <pflegeportal:ortsteil></pflegeportal:ortsteil>
@@ -9301,186 +8509,6 @@
         <pflegeportal:telefon>0385 4860165</pflegeportal:telefon>
         <pflegeportal:email>info@pflegedienst-intensiv.de</pflegeportal:email>
         <pflegeportal:internet>http://www.pflegedienst-intensiv.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>11</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.319">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>265931.983333,5913365.506792 265931.983333,5913365.506792</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>265931.983333,5913365.506792</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>319</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Kaplunger Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>36</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Wohnungsbaugenossenschaft Ludwigslust eG</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Volker Möring</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 22067</pflegeportal:telefon>
-        <pflegeportal:email>volker.moering@wohnen-in-ludwigslust.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wohnen-in-ludwigslust.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.320">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>265956.337427,5913354.802085 265956.337427,5913354.802085</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>265956.337427,5913354.802085</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>320</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Kaplunger Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>38</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Wohnungsbaugenossenschaft Ludwigslust eG</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Volker Möring</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 22067</pflegeportal:telefon>
-        <pflegeportal:email>volker.moering@wohnen-in-ludwigslust.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wohnen-in-ludwigslust.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.321">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>318435.621338,5927023.759072 318435.621338,5927023.759072</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>318435.621338,5927023.759072</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>321</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Altenpflegeheim Dr. Wilde Haus</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Quetziner Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>2</pflegeportal:hnr>
-        <pflegeportal:plz>19395</pflegeportal:plz>
-        <pflegeportal:gemeinde>Plau</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076114</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Diakoniewerk Kloster Dobbertin gGbmH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038735 8950</pflegeportal:telefon>
-        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.kloster-dobbertin.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>4</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.322">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>318435.621338,5927023.759072 318435.621338,5927023.759072</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>318435.621338,5927023.759072</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>322</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen für Senioren</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Quetziner Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>2</pflegeportal:hnr>
-        <pflegeportal:plz>19395</pflegeportal:plz>
-        <pflegeportal:gemeinde>Plau</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076114</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Diakoniewerk Kloster Dobbertin gGbmH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038735 8950</pflegeportal:telefon>
-        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.kloster-dobbertin.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>4</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.323">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>317887.129991,5926929.028190 317887.129991,5926929.028190</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>317887.129991,5926929.028190</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>323</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Sophienstift</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Steinstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>94</pflegeportal:hnr>
-        <pflegeportal:plz>19395</pflegeportal:plz>
-        <pflegeportal:gemeinde>Plau</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076114</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Diakoniewerk Kloster Dobbertin gGbmH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038735 8950</pflegeportal:telefon>
-        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.kloster-dobbertin.de</pflegeportal:internet>
         <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
@@ -9489,37 +8517,73 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.351">
+      <pflegeportal:Sozialpflege fid="Sozialpflege.306">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>217451.821382,5922563.338582 217451.821382,5922563.338582</gml:coordinates>
+        		<gml:coordinates>258748.203626,5941489.416595 258748.203626,5941489.416595</gml:coordinates>
         	</gml:Box>
         </gml:boundedBy>
         <pflegeportal:msGeometry>
         <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>217451.821382,5922563.338582</gml:coordinates>
+          <gml:coordinates>258748.203626,5941489.416595</gml:coordinates>
         </gml:Point>
         </pflegeportal:msGeometry>
-        <pflegeportal:id>351</pflegeportal:id>
-        <pflegeportal:versorgungsart>Gesundheit</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Apotheke</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Apotheke am Bahnhof</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Bahnhofstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>30</pflegeportal:hnr>
-        <pflegeportal:plz>19258</pflegeportal:plz>
-        <pflegeportal:gemeinde>Boizenburg</pflegeportal:gemeinde>
+        <pflegeportal:id>306</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Demenz-Wohngemeinschaft Schwerin-Pampow</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Schweriner Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>43</pflegeportal:hnr>
+        <pflegeportal:plz>19075</pflegeportal:plz>
+        <pflegeportal:gemeinde>Pampow</pflegeportal:gemeinde>
         <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076014</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038847 628700</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
+        <pflegeportal:gemeindeschl>13076107</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>AWO Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>AWO Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Großer</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03865 844990</pflegeportal:telefon>
+        <pflegeportal:email>info@awo-ludwigslust.de</pflegeportal:email>
+        <pflegeportal:internet>www.awo-ludwigslust.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.295">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239284.565057,5913263.807679 239284.565057,5913263.807679</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239284.565057,5913263.807679</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>295</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Gipsstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>7</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>3</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
         <pflegeportal:aenderung></pflegeportal:aenderung>
       </pflegeportal:Sozialpflege>
@@ -9546,8 +8610,8 @@
         <pflegeportal:gemeinde>Zarrentin</pflegeportal:gemeinde>
         <pflegeportal:ortsteil></pflegeportal:ortsteil>
         <pflegeportal:gemeindeschl>13076159</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Sinusverwaltung GmbH Schwerin</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Pflege- und Rehabilitationszentrum Zarrentin GmbH</pflegeportal:traeger>
+        <pflegeportal:eigentuemer>Pflege- und Rehabilitationszentrum Zarrentin</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Sinusverwaltung GmbH Schwerin</pflegeportal:traeger>
         <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
         <pflegeportal:ansprechpartner>Frau Mattern</pflegeportal:ansprechpartner>
         <pflegeportal:telefon>0385 6172180</pflegeportal:telefon>
@@ -9561,35 +8625,35 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.324">
+      <pflegeportal:Sozialpflege fid="Sozialpflege.321">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>318536.923094,5926427.593047 318536.923094,5926427.593047</gml:coordinates>
+        		<gml:coordinates>318435.621338,5927023.759072 318435.621338,5927023.759072</gml:coordinates>
         	</gml:Box>
         </gml:boundedBy>
         <pflegeportal:msGeometry>
         <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>318536.923094,5926427.593047</gml:coordinates>
+          <gml:coordinates>318435.621338,5927023.759072</gml:coordinates>
         </gml:Point>
         </pflegeportal:msGeometry>
-        <pflegeportal:id>324</pflegeportal:id>
+        <pflegeportal:id>321</pflegeportal:id>
         <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
         <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Wohnanlage An der Hubbrücke</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Bergstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>4</pflegeportal:hnr>
+        <pflegeportal:einrichtung>Betreutes Wohnen &quot;Dr. Wilde Haus&quot; Plau am See</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Quetziner Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>2</pflegeportal:hnr>
         <pflegeportal:plz>19395</pflegeportal:plz>
-        <pflegeportal:gemeinde>Plau</pflegeportal:gemeinde>
+        <pflegeportal:gemeinde>Plau am See</pflegeportal:gemeinde>
         <pflegeportal:ortsteil></pflegeportal:ortsteil>
         <pflegeportal:gemeindeschl>13076114</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Volkssolidarität Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Volkssolidarität Kreisverband Parchim e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Bredfeldt</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038735 81026</pflegeportal:telefon>
-        <pflegeportal:email>vs-wohnanlage@web.de</pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>26</pflegeportal:kapazitaet>
+        <pflegeportal:eigentuemer>Diakoniewerk Kloster Dobbertin gGbmH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Schuldt</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038735 895420</pflegeportal:telefon>
+        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.kloster-dobbertin.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>4</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -9597,23 +8661,383 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.325">
+      <pflegeportal:Sozialpflege fid="Sozialpflege.323">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>266007.238220,5913359.022612 266007.238220,5913359.022612</gml:coordinates>
+        		<gml:coordinates>317887.129991,5926929.028190 317887.129991,5926929.028190</gml:coordinates>
         	</gml:Box>
         </gml:boundedBy>
         <pflegeportal:msGeometry>
         <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>266007.238220,5913359.022612</gml:coordinates>
+          <gml:coordinates>317887.129991,5926929.028190</gml:coordinates>
         </gml:Point>
         </pflegeportal:msGeometry>
-        <pflegeportal:id>325</pflegeportal:id>
+        <pflegeportal:id>323</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Sophienstift Plau am See</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Steinstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>94</pflegeportal:hnr>
+        <pflegeportal:plz>19395</pflegeportal:plz>
+        <pflegeportal:gemeinde>Plau am See</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076114</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Diakoniewerk Kloster Dobbertin gGbmH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038735 8950</pflegeportal:telefon>
+        <pflegeportal:email>ahz.plau@kloster-dobbertin.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.kloster-dobbertin.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.303">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>266738.886047,5913942.839471 266738.886047,5913942.839471</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>266738.886047,5913942.839471</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>303</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Demenz-Wohngemeinschaft &quot;Mecklenburger Hof&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Lindenstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>42</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Hauskrankenpflege Tiede &amp; Partner GbR</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Tiede</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 21751</pflegeportal:telefon>
+        <pflegeportal:email>kontakt@tiedepartner.de</pflegeportal:email>
+        <pflegeportal:internet>www.tiedepartner.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>24</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>2x12 Wohnungen</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.311">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>267374.404935,5922528.392255 267374.404935,5922528.392255</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>267374.404935,5922528.392255</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>311</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Demenz-Wohngemeinschaft Wöbbelin</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Theodor-Körner-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>4</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Wöbbelin</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076156</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>AWO Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>AWO Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Schütte</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038753 889505</pflegeportal:telefon>
+        <pflegeportal:email>info@awo-ludwigslust.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.awo-mv.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>9</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.297">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>240754.732753,5910580.887011 240754.732753,5910580.887011</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>240754.732753,5910580.887011</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>297</pflegeportal:id>
         <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
         <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Lagerstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>11</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.305">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>270994.619891,5921810.556968 270994.619891,5921810.556968</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>270994.619891,5921810.556968</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>305</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Intensivpflege Wohngemeinschaft</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Seeblick</pflegeportal:strasse>
+        <pflegeportal:hnr>1</pflegeportal:hnr>
+        <pflegeportal:plz>19306</pflegeportal:plz>
+        <pflegeportal:gemeinde>Neustadt-Glewe</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076105</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Sanitas Pflege- und Betreuungs-GmbH Schwerin</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Sanitas Pflege- und Betreuungs-GmbH Schwerin</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Saß</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>0385 39371551</pflegeportal:telefon>
+        <pflegeportal:email>info@sanitas-intensivpflege.de</pflegeportal:email>
+        <pflegeportal:internet>www.sanitas-intensivpflege.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.308">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239579.303783,5936535.729174 239579.303783,5936535.729174</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239579.303783,5936535.729174</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>308</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Wittenburg</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Große Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>60</pflegeportal:hnr>
+        <pflegeportal:plz>19243</pflegeportal:plz>
+        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Sybill Moß, Wittenburg</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Schulz</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03883 723096</pflegeportal:telefon>
+        <pflegeportal:email>info@volkssolidaritaet-hagenow.de</pflegeportal:email>
+        <pflegeportal:internet>www.volkssolidaritaet-hagenow.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.296">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>238842.212128,5913127.242831 238842.212128,5913127.242831</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>238842.212128,5913127.242831</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>296</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Schulstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>8</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.293">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239195.880002,5913226.455472 239195.880002,5913226.455472</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239195.880002,5913226.455472</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>293</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Gipsstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>4</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.294">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239074.898072,5912974.455575 239074.898072,5912974.455575</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239074.898072,5912974.455575</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>294</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Kirchenplatz</pflegeportal:strasse>
+        <pflegeportal:hnr>8</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>3</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.299">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>240770.822432,5910425.118115 240770.822432,5910425.118115</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>240770.822432,5910425.118115</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>299</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Lagerstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>25</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.319">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>265931.983333,5913365.506792 265931.983333,5913365.506792</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>265931.983333,5913365.506792</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>319</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
         <pflegeportal:strasse>Kaplunger Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>42</pflegeportal:hnr>
+        <pflegeportal:hnr>36</pflegeportal:hnr>
         <pflegeportal:plz>19288</pflegeportal:plz>
         <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
         <pflegeportal:ortsteil></pflegeportal:ortsteil>
@@ -9621,7 +9045,43 @@
         <pflegeportal:eigentuemer>Wohnungsbaugenossenschaft Ludwigslust eG</pflegeportal:eigentuemer>
         <pflegeportal:traeger></pflegeportal:traeger>
         <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Volker Möring</pflegeportal:ansprechpartner>
+        <pflegeportal:ansprechpartner>Herr Möring</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 22067</pflegeportal:telefon>
+        <pflegeportal:email>volker.moering@wohnen-in-ludwigslust.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wohnen-in-ludwigslust.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.320">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>265956.337427,5913354.802085 265956.337427,5913354.802085</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>265956.337427,5913354.802085</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>320</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Kaplunger Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>38</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Wohnungsbaugenossenschaft Ludwigslust eG</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Möring</pflegeportal:ansprechpartner>
         <pflegeportal:telefon>03874 22067</pflegeportal:telefon>
         <pflegeportal:email>volker.moering@wohnen-in-ludwigslust.de</pflegeportal:email>
         <pflegeportal:internet>http://www.wohnen-in-ludwigslust.de</pflegeportal:internet>
@@ -9741,186 +9201,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.326">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>266010.556172,5913352.120487 266010.556172,5913352.120487</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>266010.556172,5913352.120487</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>326</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Kaplunger Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>44</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Wohnungsbaugenossenschaft Ludwigslust eG</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Volker Möring</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 22067</pflegeportal:telefon>
-        <pflegeportal:email>volker.moering@wohnen-in-ludwigslust.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wohnen-in-ludwigslust.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.327">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>288999.963477,5924447.178596 288999.963477,5924447.178596</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>288999.963477,5924447.178596</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>327</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Walter-Hase-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>18</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
-        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.328">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>303444.550073,5927771.297197 303444.550073,5927771.297197</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>303444.550073,5927771.297197</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>328</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Ferdinand-von-Schill-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>1</pflegeportal:hnr>
-        <pflegeportal:plz>19386</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübz</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076089</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Wohnungs- und Verwaltungs- GmbH Lübz</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Schneider</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038731 56622</pflegeportal:telefon>
-        <pflegeportal:email>Hannelore.Strosche@wvlluebz.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wvlluebz.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>22</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.329">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>271227.459446,5909788.406406 271227.459446,5909788.406406</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>271227.459446,5909788.406406</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>329</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Goethestraße</pflegeportal:strasse>
-        <pflegeportal:hnr>25</pflegeportal:hnr>
-        <pflegeportal:plz>19300</pflegeportal:plz>
-        <pflegeportal:gemeinde>Grabow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076050</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WBV Wohnungsbau- und Wohnungsverwaltungsgesellschaft mbH Grabow</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Kruse</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038756 28010</pflegeportal:telefon>
-        <pflegeportal:email>info@wbv-grabow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wohnen-in-grabow.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.330">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>271400.335542,5908207.019671 271400.335542,5908207.019671</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>271400.335542,5908207.019671</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>330</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Hufenweg</pflegeportal:strasse>
-        <pflegeportal:hnr>7</pflegeportal:hnr>
-        <pflegeportal:plz>19300</pflegeportal:plz>
-        <pflegeportal:gemeinde>Grabow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076050</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WBV Wohnungsbau- und Wohnungsverwaltungsgesellschaft mbH Grabow</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Kruse</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038756 28010</pflegeportal:telefon>
-        <pflegeportal:email>info@wbv-grabow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wohnen-in-grabow.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.331">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -9986,330 +9266,6 @@
         <pflegeportal:email></pflegeportal:email>
         <pflegeportal:internet></pflegeportal:internet>
         <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.333">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247210.384111,5931506.924415 247210.384111,5931506.924415</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247210.384111,5931506.924415</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>333</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Dorfstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>36</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>4</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.334">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>288860.251806,5924124.395636 288860.251806,5924124.395636</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>288860.251806,5924124.395636</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>334</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Hans-Beimler-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>22-33</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
-        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>60</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.335">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>288700.772365,5924136.282010 288700.772365,5924136.282010</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>288700.772365,5924136.282010</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>335</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Geschwister-Scholl-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>22-23</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
-        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>30</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.336">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>290976.712239,5924137.741218 290976.712239,5924137.741218</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>290976.712239,5924137.741218</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>336</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Ostring</pflegeportal:strasse>
-        <pflegeportal:hnr>5-9</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
-        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>24</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.337">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>288687.936842,5924071.053757 288687.936842,5924071.053757</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>288687.936842,5924071.053757</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>337</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Juri-Gagarin-Ring</pflegeportal:strasse>
-        <pflegeportal:hnr>1/2</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
-        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>122</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.340">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247094.136193,5926811.961578 247094.136193,5926811.961578</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247094.136193,5926811.961578</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>340</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Fritz-Reuter Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>5</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Hagenower Wohnungsbaugesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Volkssolidarität e.V. Verband Hagenow</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Michael Hasche</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03883 615412</pflegeportal:telefon>
-        <pflegeportal:email>m.hasche@hagenower-wobau.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.hagenower-wobau.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>16</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierefrei</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.341">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>291324.642861,5924022.507839 291324.642861,5924022.507839</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>291324.642861,5924022.507839</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>341</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Pestalozziweg</pflegeportal:strasse>
-        <pflegeportal:hnr>3/4</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
-        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>22</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.342">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>288818.792733,5924357.597063 288818.792733,5924357.597063</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>288818.792733,5924357.597063</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>342</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>W.-I.-Lenin-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>52</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
-        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.343">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>288894.556845,5924387.734236 288894.556845,5924387.734236</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>288894.556845,5924387.734236</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>343</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>W.-I.-Lenin-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>57</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
-        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>15</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -10533,6 +9489,42 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.326">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>266010.556172,5913352.120487 266010.556172,5913352.120487</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>266010.556172,5913352.120487</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>326</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Kaplunger Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>44</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Wohnungsbaugenossenschaft Ludwigslust eG</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Möring</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 22067</pflegeportal:telefon>
+        <pflegeportal:email>volker.moering@wohnen-in-ludwigslust.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wohnen-in-ludwigslust.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.339">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -10546,8 +9538,8 @@
         </pflegeportal:msGeometry>
         <pflegeportal:id>339</pflegeportal:id>
         <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
         <pflegeportal:strasse>Juri-Gagarin-Ring</pflegeportal:strasse>
         <pflegeportal:hnr>1/2</pflegeportal:hnr>
         <pflegeportal:plz>19370</pflegeportal:plz>
@@ -10569,6 +9561,150 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.324">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>318536.923094,5926427.593047 318536.923094,5926427.593047</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>318536.923094,5926427.593047</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>324</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Wohnanlage &quot;An der Hubbrücke&quot; Plau am See</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Bergstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>4</pflegeportal:hnr>
+        <pflegeportal:plz>19395</pflegeportal:plz>
+        <pflegeportal:gemeinde>Plau am See</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076114</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Volkssolidarität Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Volkssolidarität Kreisverband Parchim e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Bredfeldt</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038735 81026</pflegeportal:telefon>
+        <pflegeportal:email>vs-wohnanlage@web.de</pflegeportal:email>
+        <pflegeportal:internet>www.volkssolidaritaet.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>26</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.328">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>303444.550073,5927771.297197 303444.550073,5927771.297197</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>303444.550073,5927771.297197</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>328</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Ferdinand-von-Schill-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>1</pflegeportal:hnr>
+        <pflegeportal:plz>19386</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübz</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076089</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Wohnungs- und Verwaltungs- GmbH Lübz</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Schneider</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038731 56622</pflegeportal:telefon>
+        <pflegeportal:email>Hannelore.Strosche@wvlluebz.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wvlluebz.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>22</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.330">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>271400.335542,5908207.019671 271400.335542,5908207.019671</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>271400.335542,5908207.019671</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>330</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Hufenweg</pflegeportal:strasse>
+        <pflegeportal:hnr>7</pflegeportal:hnr>
+        <pflegeportal:plz>19300</pflegeportal:plz>
+        <pflegeportal:gemeinde>Grabow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076050</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WBV Wohnungsbau- und Wohnungsverwaltungsgesellschaft mbH Grabow</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Kruse</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038756 28010</pflegeportal:telefon>
+        <pflegeportal:email>info@wbv-grabow.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wohnen-in-grabow.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.333">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>247210.384111,5931506.924415 247210.384111,5931506.924415</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>247210.384111,5931506.924415</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>333</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Dorfstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>36</pflegeportal:hnr>
+        <pflegeportal:plz>19230</pflegeportal:plz>
+        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>4</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.344">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -10582,8 +9718,8 @@
         </pflegeportal:msGeometry>
         <pflegeportal:id>344</pflegeportal:id>
         <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
         <pflegeportal:strasse>Pestalozziweg</pflegeportal:strasse>
         <pflegeportal:hnr>3/4</pflegeportal:hnr>
         <pflegeportal:plz>19370</pflegeportal:plz>
@@ -10598,6 +9734,366 @@
         <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
         <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
         <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.327">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>288999.963477,5924447.178596 288999.963477,5924447.178596</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>288999.963477,5924447.178596</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>327</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Walter-Hase-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>18</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
+        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.325">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>266007.238220,5913359.022612 266007.238220,5913359.022612</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>266007.238220,5913359.022612</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>325</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Kaplunger Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>42</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Wohnungsbaugenossenschaft Ludwigslust eG</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Möring</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 22067</pflegeportal:telefon>
+        <pflegeportal:email>volker.moering@wohnen-in-ludwigslust.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wohnen-in-ludwigslust.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>6</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.329">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>271227.459446,5909788.406406 271227.459446,5909788.406406</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>271227.459446,5909788.406406</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>329</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Goethestraße</pflegeportal:strasse>
+        <pflegeportal:hnr>25</pflegeportal:hnr>
+        <pflegeportal:plz>19300</pflegeportal:plz>
+        <pflegeportal:gemeinde>Grabow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076050</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WBV Wohnungsbau- und Wohnungsverwaltungsgesellschaft mbH Grabow</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Kruse</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038756 28010</pflegeportal:telefon>
+        <pflegeportal:email>info@wbv-grabow.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wohnen-in-grabow.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.334">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>288860.251806,5924124.395636 288860.251806,5924124.395636</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>288860.251806,5924124.395636</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>334</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Hans-Beimler-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>22-33</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
+        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>60</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.335">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>288700.772365,5924136.282010 288700.772365,5924136.282010</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>288700.772365,5924136.282010</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>335</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Geschwister-Scholl-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>22-23</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
+        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>30</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.336">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>290976.712239,5924137.741218 290976.712239,5924137.741218</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>290976.712239,5924137.741218</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>336</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Ostring</pflegeportal:strasse>
+        <pflegeportal:hnr>5-9</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
+        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>24</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.337">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>288687.936842,5924071.053757 288687.936842,5924071.053757</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>288687.936842,5924071.053757</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>337</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Juri-Gagarin-Ring</pflegeportal:strasse>
+        <pflegeportal:hnr>1/2</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
+        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>122</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.341">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>291324.642861,5924022.507839 291324.642861,5924022.507839</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>291324.642861,5924022.507839</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>341</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Pestalozziweg</pflegeportal:strasse>
+        <pflegeportal:hnr>3/4</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
+        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>22</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.342">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>288818.792733,5924357.597063 288818.792733,5924357.597063</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>288818.792733,5924357.597063</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>342</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>W.-I.-Lenin-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>52</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
+        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.343">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>288894.556845,5924387.734236 288894.556845,5924387.734236</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>288894.556845,5924387.734236</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>343</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>W.-I.-Lenin-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>57</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
+        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>15</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -14061,222 +13557,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.456">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>247634.097024,5926313.076947 247634.097024,5926313.076947</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>247634.097024,5926313.076947</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>456</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>ASB Betreutes Wohnen für Senioren</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Bahnhofstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>69 a</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>ASB OV Hagenow / Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>ASB OV Hagenow / Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Jauert</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 20686</pflegeportal:telefon>
-        <pflegeportal:email>asb-ludwigslust@t-online.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.asb-hgn.de/57/Senioren_und_Pflege/Seniorenarbeit</pflegeportal:internet>
-        <pflegeportal:kapazitaet>22</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.457">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>246497.572282,5927320.854634 246497.572282,5927320.854634</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>246497.572282,5927320.854634</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>457</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>ASB Betreutes Wohnen für Senioren</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Parkstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>12 a</pflegeportal:hnr>
-        <pflegeportal:plz>19230</pflegeportal:plz>
-        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>ASB OV Hagenow / Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>ASB OV Hagenow / Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Jauert</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03874 20686</pflegeportal:telefon>
-        <pflegeportal:email>asb-ludwigslust@t-online.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.asb-hgn.de/57/Senioren_und_Pflege/Seniorenarbeit</pflegeportal:internet>
-        <pflegeportal:kapazitaet>9</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.458">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>240695.421098,5910532.369184 240695.421098,5910532.369184</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>240695.421098,5910532.369184</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>458</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Lagerstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>15 a</pflegeportal:hnr>
-        <pflegeportal:plz>19249</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>L. Luther</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
-        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
-        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.459">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>303184.054596,5927937.044357 303184.054596,5927937.044357</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>303184.054596,5927937.044357</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>459</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Scharnhorststraße</pflegeportal:strasse>
-        <pflegeportal:hnr>26 a</pflegeportal:hnr>
-        <pflegeportal:plz>19386</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübz</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076089</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Riemann</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038731 562021</pflegeportal:telefon>
-        <pflegeportal:email>ulla.riemann@drk-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>66</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.462">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>303157.526594,5927935.900541 303157.526594,5927935.900541</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>303157.526594,5927935.900541</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>462</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
-        <pflegeportal:einrichtung>DRK Wohngemeinschaft</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Scharnhorststraße</pflegeportal:strasse>
-        <pflegeportal:hnr>26 a</pflegeportal:hnr>
-        <pflegeportal:plz>19386</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübz</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076089</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Riemann</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038731 562021</pflegeportal:telefon>
-        <pflegeportal:email>ulla.riemann@drk-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.463">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>303157.974732,5927935.678135 303157.974732,5927935.678135</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>303157.974732,5927935.678135</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>463</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
-        <pflegeportal:einrichtung>DRK Wohngemeinschaft</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Scharnhorststraße</pflegeportal:strasse>
-        <pflegeportal:hnr>26 a</pflegeportal:hnr>
-        <pflegeportal:plz>19386</pflegeportal:plz>
-        <pflegeportal:gemeinde>Lübz</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076089</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Riemann</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038731 562021</pflegeportal:telefon>
-        <pflegeportal:email>ulla.riemann@drk-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.465">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -14339,222 +13619,6 @@
         <pflegeportal:dachverband></pflegeportal:dachverband>
         <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
         <pflegeportal:telefon></pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.468">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>270603.833806,5908961.104099 270603.833806,5908961.104099</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>270603.833806,5908961.104099</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>468</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Betreutes Wohnen</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Grüner Steig</pflegeportal:strasse>
-        <pflegeportal:hnr>9 a</pflegeportal:hnr>
-        <pflegeportal:plz>19300</pflegeportal:plz>
-        <pflegeportal:gemeinde>Grabow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076050</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Drewes</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038756 22307</pflegeportal:telefon>
-        <pflegeportal:email>drewes@asb-grabow.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.asb-grabow.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>43</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.469">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>259092.433718,5941849.147981 259092.433718,5941849.147981</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>259092.433718,5941849.147981</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>469</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>DRK Seniorenwohnanlage</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Schmiedeweg</pflegeportal:strasse>
-        <pflegeportal:hnr>4 a</pflegeportal:hnr>
-        <pflegeportal:plz>19075</pflegeportal:plz>
-        <pflegeportal:gemeinde>Pampow</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076107</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Wiese</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03865 6564</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>49</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.470">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>290508.098022,5956424.097994 290508.098022,5956424.097994</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>290508.098022,5956424.097994</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>470</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Am Berge</pflegeportal:strasse>
-        <pflegeportal:hnr>1 a</pflegeportal:hnr>
-        <pflegeportal:plz>19406</pflegeportal:plz>
-        <pflegeportal:gemeinde>Sternberg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076128</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Riemann</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038731 562021</pflegeportal:telefon>
-        <pflegeportal:email>ulla.riemann@drk-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>31</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.471">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239417.907385,5936473.182644 239417.907385,5936473.182644</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239417.907385,5936473.182644</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>471</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Wallstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>63 a</pflegeportal:hnr>
-        <pflegeportal:plz>19243</pflegeportal:plz>
-        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Wittenburger Wohnungsbau-und Verwaltungsgesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03885 250034</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.472">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239377.396943,5936449.756459 239377.396943,5936449.756459</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239377.396943,5936449.756459</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>472</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Wallstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>63 c</pflegeportal:hnr>
-        <pflegeportal:plz>19243</pflegeportal:plz>
-        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Wittenburger Wohnungsbau-und Verwaltungsgesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03885 250034</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.473">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>239392.845224,5936446.232679 239392.845224,5936446.232679</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>239392.845224,5936446.232679</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>473</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Wallstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>63 b</pflegeportal:hnr>
-        <pflegeportal:plz>19243</pflegeportal:plz>
-        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Wittenburger Wohnungsbau-und Verwaltungsgesellschaft mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03885 250034</pflegeportal:telefon>
         <pflegeportal:email></pflegeportal:email>
         <pflegeportal:internet></pflegeportal:internet>
         <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
@@ -14781,42 +13845,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.481">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>272743.301561,5920493.019068 272743.301561,5920493.019068</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>272743.301561,5920493.019068</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>481</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>DRK Seniorenwohnanlage</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Kronskamperstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>7 a</pflegeportal:hnr>
-        <pflegeportal:plz>19306</pflegeportal:plz>
-        <pflegeportal:gemeinde>Neustadt-Glewe</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076105</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Gollan</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038757 54954</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>19</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.482">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -14889,42 +13917,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.484">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>290362.118576,5956381.461610 290362.118576,5956381.461610</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>290362.118576,5956381.461610</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>484</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Finkenkamp</pflegeportal:strasse>
-        <pflegeportal:hnr>20 a</pflegeportal:hnr>
-        <pflegeportal:plz>19406</pflegeportal:plz>
-        <pflegeportal:gemeinde>Sternberg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076128</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
-        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Riemann</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038731 562021</pflegeportal:telefon>
-        <pflegeportal:email>ulla.riemann@drk-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>30</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.485">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -14961,6 +13953,402 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.457">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>246497.572282,5927320.854634 246497.572282,5927320.854634</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>246497.572282,5927320.854634</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>457</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>ASB Betreutes Wohnen &quot;Am Schützenpark&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Parkstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>12 a</pflegeportal:hnr>
+        <pflegeportal:plz>19230</pflegeportal:plz>
+        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>ASB OV Hagenow / Ludwigslust e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>ASB OV Hagenow / Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Fender</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 20686</pflegeportal:telefon>
+        <pflegeportal:email>asb-ludwigslust@t-online.de</pflegeportal:email>
+        <pflegeportal:internet>www.asb-hgn-lwl.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>22</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.471">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239417.907385,5936473.182644 239417.907385,5936473.182644</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239417.907385,5936473.182644</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>471</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Wallstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>63 a</pflegeportal:hnr>
+        <pflegeportal:plz>19243</pflegeportal:plz>
+        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Wittenburger Wohnungsbau-und Verwaltungsgesellschaft mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03885 250034</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.468">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>270603.833806,5908961.104099 270603.833806,5908961.104099</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>270603.833806,5908961.104099</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>468</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>ASB Betreutes Wohnen für Senioren Grabow</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Grüner Steig</pflegeportal:strasse>
+        <pflegeportal:hnr>9 a</pflegeportal:hnr>
+        <pflegeportal:plz>19300</pflegeportal:plz>
+        <pflegeportal:gemeinde>Grabow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076050</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>ASB Ortsverbände Boizenburg / Grabow e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Drewes</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038756 22307</pflegeportal:telefon>
+        <pflegeportal:email>drewes@asb-boizenburg.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.asb-boizenburg.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>43</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.470">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>290508.098022,5956424.097994 290508.098022,5956424.097994</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>290508.098022,5956424.097994</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>470</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Sternberg</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Am Berge</pflegeportal:strasse>
+        <pflegeportal:hnr>1 a</pflegeportal:hnr>
+        <pflegeportal:plz>19406</pflegeportal:plz>
+        <pflegeportal:gemeinde>Sternberg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076128</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Beu</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03847 4313140</pflegeportal:telefon>
+        <pflegeportal:email>info@drk-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>30</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.481">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>272743.301561,5920493.019068 272743.301561,5920493.019068</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>272743.301561,5920493.019068</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>481</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>DRK Seniorenwohnanlage Neustadt-Glewe</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Kronskamperstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>7 a</pflegeportal:hnr>
+        <pflegeportal:plz>19306</pflegeportal:plz>
+        <pflegeportal:gemeinde>Neustadt-Glewe</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076105</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>DRK Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>DRK Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Gollan</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038757 54954</pflegeportal:telefon>
+        <pflegeportal:email>geschaeftsstelle@drk-lwl.de</pflegeportal:email>
+        <pflegeportal:internet>www.drk-lwl.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>19</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.484">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>290362.118576,5956381.461610 290362.118576,5956381.461610</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>290362.118576,5956381.461610</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>484</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Sternberg</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Finkenkamp</pflegeportal:strasse>
+        <pflegeportal:hnr>20 a</pflegeportal:hnr>
+        <pflegeportal:plz>19406</pflegeportal:plz>
+        <pflegeportal:gemeinde>Sternberg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076128</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Beu</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03847 4313140</pflegeportal:telefon>
+        <pflegeportal:email>info@drk-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>30</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.459">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>303184.054596,5927937.044357 303184.054596,5927937.044357</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>303184.054596,5927937.044357</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>459</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>DRK Seniorenwohnanlage Lübz</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Scharnhorststraße</pflegeportal:strasse>
+        <pflegeportal:hnr>26 a</pflegeportal:hnr>
+        <pflegeportal:plz>19386</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübz</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076089</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Riemann</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038731 562021</pflegeportal:telefon>
+        <pflegeportal:email>ulla.riemann@drk-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>66</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.462">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>303157.526594,5927935.900541 303157.526594,5927935.900541</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>303157.526594,5927935.900541</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>462</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Demenz-Wohngemeinschaft</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Scharnhorststraße</pflegeportal:strasse>
+        <pflegeportal:hnr>26 a</pflegeportal:hnr>
+        <pflegeportal:plz>19386</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübz</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076089</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>DRK Kreisverband Parchim e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>DRK Kreisverband Parchim e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Riemann</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038731 562021</pflegeportal:telefon>
+        <pflegeportal:email>ulla.riemann@drk-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.drk-parchim.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>16</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>2x8 Wohnungen</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.472">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239377.396943,5936449.756459 239377.396943,5936449.756459</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239377.396943,5936449.756459</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>472</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Wallstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>63 c</pflegeportal:hnr>
+        <pflegeportal:plz>19243</pflegeportal:plz>
+        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Wittenburger Wohnungsbau-und Verwaltungsgesellschaft mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03885 250034</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.473">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>239392.845224,5936446.232679 239392.845224,5936446.232679</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>239392.845224,5936446.232679</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>473</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Wallstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>63 b</pflegeportal:hnr>
+        <pflegeportal:plz>19243</pflegeportal:plz>
+        <pflegeportal:gemeinde>Wittenburg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Wittenburger Wohnungsbau-und Verwaltungsgesellschaft mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03885 250034</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.458">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>240695.421098,5910532.369184 240695.421098,5910532.369184</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>240695.421098,5910532.369184</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>458</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierearmes Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Lagerstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>15 a</pflegeportal:hnr>
+        <pflegeportal:plz>19249</pflegeportal:plz>
+        <pflegeportal:gemeinde>Lübtheen</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076088</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Lübtheener Wohnungswirtschaft GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Luther</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038855 560013</pflegeportal:telefon>
+        <pflegeportal:email>luewowi@gmx.net</pflegeportal:email>
+        <pflegeportal:internet>http://www.wowi-luebtheen.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>2</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>barrierearm</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.486">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -14990,42 +14378,6 @@
         <pflegeportal:email></pflegeportal:email>
         <pflegeportal:internet></pflegeportal:internet>
         <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.302">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>267013.577453,5913891.759580 267013.577453,5913891.759580</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>267013.577453,5913891.759580</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>302</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot></pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Louisenstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>1, 5, 7, 9, 11, 13</pflegeportal:hnr>
-        <pflegeportal:plz>19288</pflegeportal:plz>
-        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>VEWOBA Wohnungsbaugesellschaft Ludwigslust mbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Harry Lutzke</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon></pflegeportal:telefon>
-        <pflegeportal:email>h.lutzke@vewoba.de</pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>48</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -15206,42 +14558,6 @@
         <pflegeportal:email>Kurzzeitpflege@Lobetal-Luebtheen.de</pflegeportal:email>
         <pflegeportal:internet>www.lobetal-luebtheen.de</pflegeportal:internet>
         <pflegeportal:kapazitaet>12</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.32">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>215376.809037,5922443.446019 215376.809037,5922443.446019</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>215376.809037,5922443.446019</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>32</pflegeportal:id>
-        <pflegeportal:versorgungsart>Gesundheit</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>AW</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Paasch, Dagmar</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Reichenstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>11-13</pflegeportal:hnr>
-        <pflegeportal:plz>19258</pflegeportal:plz>
-        <pflegeportal:gemeinde>Boizenburg</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076014</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038847 8771129</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -15722,6 +15038,78 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.32">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>215376.809037,5922443.446019 215376.809037,5922443.446019</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>215376.809037,5922443.446019</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>32</pflegeportal:id>
+        <pflegeportal:versorgungsart>Gesundheit</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Arzt</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Paasch, Dagmar</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Reichenstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>11-13</pflegeportal:hnr>
+        <pflegeportal:plz>19258</pflegeportal:plz>
+        <pflegeportal:gemeinde>Boizenburg</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076014</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038847 8771129</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.302">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>267013.577453,5913891.759580 267013.577453,5913891.759580</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>267013.577453,5913891.759580</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>302</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Louisenstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>1, 5, 7, 9, 11, 13</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>VEWOBA Wohnungsbaugesellschaft Ludwigslust mbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Lutzke</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon></pflegeportal:telefon>
+        <pflegeportal:email>h.lutzke@vewoba.de</pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>48</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.75">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -16190,42 +15578,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.62">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>290648.426043,5924604.639477 290648.426043,5924604.639477</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>290648.426043,5924604.639477</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>62</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Demenz-Wohngemeinschaft</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Marstall</pflegeportal:strasse>
-        <pflegeportal:hnr>4</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger>AWO Soziale Dienste gGmbH Westmecklenburg</pflegeportal:traeger>
-        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Paschiller</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 606845</pflegeportal:telefon>
-        <pflegeportal:email>sozialstation@awo-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>www.awo-soziale-dienste.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.27">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -16550,6 +15902,42 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.62">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>290648.426043,5924604.639477 290648.426043,5924604.639477</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>290648.426043,5924604.639477</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>62</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Ambulant betreute WG</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Demenz-Wohngemeinschaft</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Marstall</pflegeportal:strasse>
+        <pflegeportal:hnr>4</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>AWO Soziale Dienste gGmbH Westmecklenburg Kreisverband Schwerin-Parchim e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Paschiller</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 606845</pflegeportal:telefon>
+        <pflegeportal:email>sozialstation@awo-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>www.awo-soziale-dienste.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.285">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -16622,78 +16010,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.338">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>288747.774262,5924115.263664 288747.774262,5924115.263664</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>288747.774262,5924115.263664</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>338</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Barrierearmes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung></pflegeportal:einrichtung>
-        <pflegeportal:strasse>Geschwister-Scholl-Straße</pflegeportal:strasse>
-        <pflegeportal:hnr>22-23</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
-        <pflegeportal:traeger></pflegeportal:traeger>
-        <pflegeportal:dachverband></pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
-        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
-        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
-        <pflegeportal:kapazitaet>4</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.493">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>288740.108032,5923790.751789 288740.108032,5923790.751789</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>288740.108032,5923790.751789</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>493</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Altersgerechtes Wohnen Parchim</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Juri-Gagarin-Ring</pflegeportal:strasse>
-        <pflegeportal:hnr>6, 7</pflegeportal:hnr>
-        <pflegeportal:plz>19370</pflegeportal:plz>
-        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Russ</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03871 7240</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet>www.kloster-dobbertin.de</pflegeportal:internet>
-        <pflegeportal:kapazitaet>179</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit>und Rosa-Luxemburg-Straße 8,9, Ziegendorfer Chaussee 90-93</pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.494">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -16760,42 +16076,6 @@
         <pflegeportal:email>mail@setaza.de</pflegeportal:email>
         <pflegeportal:internet>www.setaza.de</pflegeportal:internet>
         <pflegeportal:kapazitaet>15</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.271">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>295379.286084,5949856.887410 295379.286084,5949856.887410</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>295379.286084,5949856.887410</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>271</pflegeportal:id>
-        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Service-QWohnen &quot;Rosenhof&quot; Dabel</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Zu den Achtertannen</pflegeportal:strasse>
-        <pflegeportal:hnr>2</pflegeportal:hnr>
-        <pflegeportal:plz>19406</pflegeportal:plz>
-        <pflegeportal:gemeinde>Dabel</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076026</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer>Rosenhof Pflege- und Fahrdienst Dabel GmbH</pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Rosenhof Pflege- und Fahrdienst Dabel GmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner>Frau Jäger</pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>038485 20424</pflegeportal:telefon>
-        <pflegeportal:email></pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>34</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
@@ -17134,42 +16414,6 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
-      <pflegeportal:Sozialpflege fid="Sozialpflege.11">
-        <gml:boundedBy>
-        	<gml:Box srsName="EPSG:25833">
-        		<gml:coordinates>236804.959982,5942217.971284 236804.959982,5942217.971284</gml:coordinates>
-        	</gml:Box>
-        </gml:boundedBy>
-        <pflegeportal:msGeometry>
-        <gml:Point srsName="EPSG:25833">
-          <gml:coordinates>236804.959982,5942217.971284</gml:coordinates>
-        </gml:Point>
-        </pflegeportal:msGeometry>
-        <pflegeportal:id>11</pflegeportal:id>
-        <pflegeportal:versorgungsart>Gesundheit</pflegeportal:versorgungsart>
-        <pflegeportal:angebot>Reha</pflegeportal:angebot>
-        <pflegeportal:einrichtung>Schloss Tessin - Fachklinik für Drogenabhängige</pflegeportal:einrichtung>
-        <pflegeportal:strasse>Dorfstraße</pflegeportal:strasse>
-        <pflegeportal:hnr>48</pflegeportal:hnr>
-        <pflegeportal:plz>19243</pflegeportal:plz>
-        <pflegeportal:gemeinde>Tessin zu Wittendörp</pflegeportal:gemeinde>
-        <pflegeportal:ortsteil></pflegeportal:ortsteil>
-        <pflegeportal:gemeindeschl>13076138</pflegeportal:gemeindeschl>
-        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
-        <pflegeportal:traeger>Ev. Suchtkrankenhilfe M-V gGmbH</pflegeportal:traeger>
-        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
-        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
-        <pflegeportal:telefon>03885 33380</pflegeportal:telefon>
-        <pflegeportal:email>info@schloss-tessin.de</pflegeportal:email>
-        <pflegeportal:internet></pflegeportal:internet>
-        <pflegeportal:kapazitaet>35</pflegeportal:kapazitaet>
-        <pflegeportal:jahr>2015</pflegeportal:jahr>
-        <pflegeportal:besonderheit></pflegeportal:besonderheit>
-        <pflegeportal:feld20></pflegeportal:feld20>
-        <pflegeportal:aenderung></pflegeportal:aenderung>
-      </pflegeportal:Sozialpflege>
-    </gml:featureMember>
-    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.123">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -17458,6 +16702,114 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.271">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>295379.286084,5949856.887410 295379.286084,5949856.887410</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>295379.286084,5949856.887410</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>271</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Service-Wohnen &quot;Rosenhof&quot; Dabel</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Zu den Achtertannen</pflegeportal:strasse>
+        <pflegeportal:hnr>2</pflegeportal:hnr>
+        <pflegeportal:plz>19406</pflegeportal:plz>
+        <pflegeportal:gemeinde>Dabel</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076026</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Rosenhof Pflege- und Fahrdienst Dabel GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Rosenhof Pflege- und Fahrdienst Dabel GmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Jäger</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038485 20424</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>34</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.493">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>288740.108032,5923790.751789 288740.108032,5923790.751789</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>288740.108032,5923790.751789</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>493</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Altersgerechtes Wohnen Parchim</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Juri-Gagarin-Ring</pflegeportal:strasse>
+        <pflegeportal:hnr>6, 7</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Diakoniewerk Kloster Dobbertin gGmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Russ</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 7240</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet>www.kloster-dobbertin.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>179</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>einschl. Whg. in Rosa-Luxemburg-Straße 8,9, Ziegendorfer Chaussee 90-93</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.338">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>288747.774262,5924115.263664 288747.774262,5924115.263664</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>288747.774262,5924115.263664</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>338</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Barrierefreies Wohnen</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Geschwister-Scholl-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>22-23</pflegeportal:hnr>
+        <pflegeportal:plz>19370</pflegeportal:plz>
+        <pflegeportal:gemeinde>Parchim</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076108</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>WOBAU Wohnungsbau GmbH Parchim</pflegeportal:eigentuemer>
+        <pflegeportal:traeger></pflegeportal:traeger>
+        <pflegeportal:dachverband></pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Sorgenfrei</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03871 63110</pflegeportal:telefon>
+        <pflegeportal:email>e.sorgenfrei@wobau-parchim.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.wobau-parchim.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>4</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.26">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -17710,6 +17062,150 @@
       </pflegeportal:Sozialpflege>
     </gml:featureMember>
     <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.504">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>267376.684257,5915252.548562 267376.684257,5915252.548562</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>267376.684257,5915252.548562</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>504</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Wohnanlage &quot;Lebenslauf II&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Neustädter Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>53</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Fritz Tiede, Forstweg 3, 19288 Groß Laasch</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Hauskrankenpflege Tiede &amp; Partner GbR</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Tiede</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 21571</pflegeportal:telefon>
+        <pflegeportal:email>kontakt@tiedepartner.de</pflegeportal:email>
+        <pflegeportal:internet>www.tiedepartner.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>0</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.505">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>268119.364529,5939635.550282 268119.364529,5939635.550282</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>268119.364529,5939635.550282</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>505</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen der JUH Plate</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Am Sportplatz</pflegeportal:strasse>
+        <pflegeportal:hnr>16</pflegeportal:hnr>
+        <pflegeportal:plz>19086</pflegeportal:plz>
+        <pflegeportal:gemeinde>Plate</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076113</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Johanniter Unfall-Hilfe e.V., Regionalverband M-V West</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Schwester Sabine</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03866 462211</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>26</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.506">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>278177.220228,5941190.815264 278177.220228,5941190.815264</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>278177.220228,5941190.815264</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>506</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Crivitz</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Trammer Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>1</pflegeportal:hnr>
+        <pflegeportal:plz>19089</pflegeportal:plz>
+        <pflegeportal:gemeinde>Crivitz</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076025</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Pflege Daheim - Pflegedienst Haunschild GmbH &amp; Co. KG</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Haunschild</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038722 20055</pflegeportal:telefon>
+        <pflegeportal:email>haunschildpflege@aol.com</pflegeportal:email>
+        <pflegeportal:internet>www.haunschild-pflege.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>37</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.507">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>277589.964913,5942105.118463 277589.964913,5942105.118463</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>277589.964913,5942105.118463</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>507</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen &quot;Haus Elim&quot; Crivitz</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Weinbergstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>50</pflegeportal:hnr>
+        <pflegeportal:plz>19089</pflegeportal:plz>
+        <pflegeportal:gemeinde>Crivitz</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076025</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Christliches Altenheim &quot;ELIM&quot; e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03863 535100</pflegeportal:telefon>
+        <pflegeportal:email>kontakt@elim-crivitz.de</pflegeportal:email>
+        <pflegeportal:internet>www.elim-crivitz.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
       <pflegeportal:Sozialpflege fid="Sozialpflege.198">
         <gml:boundedBy>
         	<gml:Box srsName="EPSG:25833">
@@ -17777,6 +17273,331 @@
         <pflegeportal:kapazitaet>1</pflegeportal:kapazitaet>
         <pflegeportal:jahr>2015</pflegeportal:jahr>
         <pflegeportal:besonderheit>Neu</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.300">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>267208.616279,5914317.618874 267208.616279,5914317.618874</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>267208.616279,5914317.618874</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>300</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>ASB Betreutes Wohnen für Senioren Ludwigslust</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Eichkoppelweg</pflegeportal:strasse>
+        <pflegeportal:hnr>12/14</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>ASB OV Hagenow / Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Fender</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 20686</pflegeportal:telefon>
+        <pflegeportal:email>asb-ludwigslust@t-online.de</pflegeportal:email>
+        <pflegeportal:internet>www.asb-hgn-lwl.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>28</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.502">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>265729.768552,5913598.448057 265729.768552,5913598.448057</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>265729.768552,5913598.448057</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>502</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen für Senioren</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Rosettistraße</pflegeportal:strasse>
+        <pflegeportal:hnr>1, 3</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Ludwigslust</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076090</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Stift Bethlehem</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Gieselmann</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 444537</pflegeportal:telefon>
+        <pflegeportal:email>betreutes-wohnen@stift-bethlehem.de</pflegeportal:email>
+        <pflegeportal:internet>www.stift-bethlehem.de/senioren</pflegeportal:internet>
+        <pflegeportal:kapazitaet>59</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>einschl. Whg. in Celestinostraße 1 und Suhrlandstraße 17,19</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.469">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>259092.433718,5941849.147981 259092.433718,5941849.147981</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>259092.433718,5941849.147981</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>469</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>DRK Seniorenwohnanlage Pampow</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Schmiedeweg</pflegeportal:strasse>
+        <pflegeportal:hnr>4 a</pflegeportal:hnr>
+        <pflegeportal:plz>19075</pflegeportal:plz>
+        <pflegeportal:gemeinde>Pampow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076107</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>DRK Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>DRK Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>DRK</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Wiese</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03865 6564</pflegeportal:telefon>
+        <pflegeportal:email>geschaeftsstelle@drk-lwl.de</pflegeportal:email>
+        <pflegeportal:internet>www.drk-lwl.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>48</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.503">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>247622.030036,5926334.313095 247622.030036,5926334.313095</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>247622.030036,5926334.313095</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>503</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>ASB Betreutes Wohnen für Senioren Hagenow</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Bahnhofstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>69 c</pflegeportal:hnr>
+        <pflegeportal:plz>19230</pflegeportal:plz>
+        <pflegeportal:gemeinde>Hagenow</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076060</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>ASB OV Hagenow / Ludwigslust e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>ASB OV Hagenow / Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>Parität</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Fender</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 20686</pflegeportal:telefon>
+        <pflegeportal:email>asb-ludwigslust@t-online.de</pflegeportal:email>
+        <pflegeportal:internet>www.asb-hgn-lwl.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>9</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.509">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>318806.920755,5935682.032312 318806.920755,5935682.032312</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>318806.920755,5935682.032312</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>509</pflegeportal:id>
+        <pflegeportal:versorgungsart>Teilstationäre Pflege</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Tagespflege
+</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Tagespflege &quot;De gaude Stuw&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Karl-Liebknecht-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>11</pflegeportal:hnr>
+        <pflegeportal:plz>19395</pflegeportal:plz>
+        <pflegeportal:gemeinde>Plau am See</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil>Karow</pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl></pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Katrin Drenckhahn (Inhaberin)</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Drenckhahn</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon></pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>16</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.508">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>236806.453450,5942217.888057 236806.453450,5942217.888057</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>236806.453450,5942217.888057</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>508</pflegeportal:id>
+        <pflegeportal:versorgungsart>Gesundheit</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Reha</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Schloss Tessin - Fachklinik für Drogenabhängige</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Dorfstraße</pflegeportal:strasse>
+        <pflegeportal:hnr>48</pflegeportal:hnr>
+        <pflegeportal:plz>19243</pflegeportal:plz>
+        <pflegeportal:gemeinde>Wittendörp</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil>Tessin</pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076153</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer></pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Ev. Suchtkrankenhilfe M-V gGmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Diakonie</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner></pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038853 3380</pflegeportal:telefon>
+        <pflegeportal:email>info@schloss-tessin.de</pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>35</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit>Nachsorgeeinrichtung</pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.309">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>242137.698937,5943471.533100 242137.698937,5943471.533100</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>242137.698937,5943471.533100</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>309</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen &quot;Uns Hüsung&quot;</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Schweriner Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>5</pflegeportal:hnr>
+        <pflegeportal:plz>19243</pflegeportal:plz>
+        <pflegeportal:gemeinde>Wittendörp</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil>Boddin</pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076152</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Pflegedienst Meyer/Barkholdt -24h Intensiv Care- Schwerin</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Pflegedienst Meyer/Barkholdt -24h Intensiv Care- Schwerin</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Barkholdt</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>0385 4860165</pflegeportal:telefon>
+        <pflegeportal:email>info@pflegedienst-intensiv.de</pflegeportal:email>
+        <pflegeportal:internet>http://www.pflegedienst-intensiv.de/</pflegeportal:internet>
+        <pflegeportal:kapazitaet>8</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.510">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>295378.879037,5949855.568879 295378.879037,5949855.568879</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>295378.879037,5949855.568879</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>510</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Barrierefreies Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Seniorenwohnanlage Rosenhof</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Zu den Achtertannen</pflegeportal:strasse>
+        <pflegeportal:hnr>2</pflegeportal:hnr>
+        <pflegeportal:plz>19406</pflegeportal:plz>
+        <pflegeportal:gemeinde>Dabel</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076026</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>Rosenhof Pflege- und Fahrdienst Dabel GmbH</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>Rosenhof Pflege- und Fahrdienst Dabel GmbH</pflegeportal:traeger>
+        <pflegeportal:dachverband>Privat</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Herr Schüttpelz-Brandt</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>038485 20424</pflegeportal:telefon>
+        <pflegeportal:email></pflegeportal:email>
+        <pflegeportal:internet></pflegeportal:internet>
+        <pflegeportal:kapazitaet>30</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
+        <pflegeportal:feld20></pflegeportal:feld20>
+        <pflegeportal:aenderung></pflegeportal:aenderung>
+      </pflegeportal:Sozialpflege>
+    </gml:featureMember>
+    <gml:featureMember>
+      <pflegeportal:Sozialpflege fid="Sozialpflege.310">
+        <gml:boundedBy>
+        	<gml:Box srsName="EPSG:25833">
+        		<gml:coordinates>267368.687728,5922506.240766 267368.687728,5922506.240766</gml:coordinates>
+        	</gml:Box>
+        </gml:boundedBy>
+        <pflegeportal:msGeometry>
+        <gml:Point srsName="EPSG:25833">
+          <gml:coordinates>267368.687728,5922506.240766</gml:coordinates>
+        </gml:Point>
+        </pflegeportal:msGeometry>
+        <pflegeportal:id>310</pflegeportal:id>
+        <pflegeportal:versorgungsart>Wohnen</pflegeportal:versorgungsart>
+        <pflegeportal:angebot>Betreutes Wohnen</pflegeportal:angebot>
+        <pflegeportal:einrichtung>Betreutes Wohnen Wöbbelin</pflegeportal:einrichtung>
+        <pflegeportal:strasse>Theodor-Körner-Straße</pflegeportal:strasse>
+        <pflegeportal:hnr>4</pflegeportal:hnr>
+        <pflegeportal:plz>19288</pflegeportal:plz>
+        <pflegeportal:gemeinde>Wöbbelin</pflegeportal:gemeinde>
+        <pflegeportal:ortsteil></pflegeportal:ortsteil>
+        <pflegeportal:gemeindeschl>13076156</pflegeportal:gemeindeschl>
+        <pflegeportal:eigentuemer>AWO Kreisverband Ludwigslust e.V.</pflegeportal:eigentuemer>
+        <pflegeportal:traeger>AWO Kreisverband Ludwigslust e.V.</pflegeportal:traeger>
+        <pflegeportal:dachverband>AWO</pflegeportal:dachverband>
+        <pflegeportal:ansprechpartner>Frau Bockmeyer</pflegeportal:ansprechpartner>
+        <pflegeportal:telefon>03874 5704623</pflegeportal:telefon>
+        <pflegeportal:email>info@awo-ludwigslust.de</pflegeportal:email>
+        <pflegeportal:internet>www.awo-ludwigslust.de</pflegeportal:internet>
+        <pflegeportal:kapazitaet>10</pflegeportal:kapazitaet>
+        <pflegeportal:jahr>2015</pflegeportal:jahr>
+        <pflegeportal:besonderheit></pflegeportal:besonderheit>
         <pflegeportal:feld20></pflegeportal:feld20>
         <pflegeportal:aenderung></pflegeportal:aenderung>
       </pflegeportal:Sozialpflege>
