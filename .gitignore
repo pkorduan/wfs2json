@@ -1,1 +1,3 @@
 constant.ini
+wfs/*
+json/*
