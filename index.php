@@ -81,7 +81,6 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
             $item['y'] = $pair[1];
             break;
           case "angebot":
-            $output .= 'angebot = ' . (String)$attribute . '<br>';
             if ((String)$attribute == "") {
               $angebot = "Sonstiges";
               $kategorie = "st";
@@ -133,6 +132,6 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
   ); ?>
   This file is now available for download <a href="<?php echo $config['json']['webPath'] . $config['json']['fileName']; ?>" target="_blank">here</a>.
   <?php #var_dump($items); ?>
-  <?php #echo $output; ?>
+  <?php echo $output; ?>
 </body>
 </html>
