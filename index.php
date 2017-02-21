@@ -1,5 +1,16 @@
 <?php
-  $config = parse_ini_file('constant.ini', true);
+  $config_file = 'conf/' . ($_REQUEST['c'] != '' ? $_REQUEST['c'] : 'constant.ini');
+
+  if (!file_exists($config_file)) {
+    echo 'Konfigurationsdatei: ' . $config_file . ($_REQUEST['c'] != '' ? ' aus dem Parameter c' : '') . ' nicht gefunden.';
+    exit;
+  }
+
+  $config = parse_ini_file($config_file, true);
+  if ($_REQUEST['type_name'] != '') {
+    $config['wfs']['featureType'] = $_REQUEST['type_name'];
+  }
+
   $versorgungsart = '';
 ?>
 <!DOCTYPE html>
@@ -68,11 +79,23 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
     $item = array();
     if ($featureMember->getName() == 'featureMember') {
       $output .= '<hr>';
-      $feature = $featureMember->children('pflegeportal', true);
-      $attributes = $feature->children('pflegeportal', true);
+      $feature = $featureMember->children($config['wfs']['ns'], true);
+      foreach ($feature->attributes() AS $key => $value) {
+        #echo '<br>Attribute: ' . $key . ' = ' . $value;
+      }
+      $attributes = $feature->children($config['wfs']['ns'], true);
       foreach($attributes AS $attribute) {
         switch ($attribute->getName()) {
           case "msGeometry":
+            $point = $attribute->children('gml', true);
+            $coordinates= $point->children('gml', true);
+            $pair = explode(',', (String)$coordinates);
+            $output .= 'lat: ' . $pair[0] . '<br>';
+            $item['x'] = $pair[0];
+            $output .= 'lon: ' . $pair[1];
+            $item['y'] = $pair[1];
+            break;
+          case "the_geom":
             $point = $attribute->children('gml', true);
             $coordinates= $point->children('gml', true);
             $pair = explode(',', (String)$coordinates);
@@ -106,8 +129,10 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
             $output .= $attribute->getName() . ' = ' . $value;
             $item[$attribute->getName()] = $value;
         }
+
         $output .= '<br>';
       }
+      
 /*      if ($item['einrichtung'] == "")
         if ($item['traeger'] == "")
           if ($item['eigentuemer'] == "")
