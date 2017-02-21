@@ -1,5 +1,6 @@
 <?php
   $config = parse_ini_file('constant.ini', true);
+  $versorgungsart = '';
 ?>
 <!DOCTYPE html>
 <html>
@@ -87,7 +88,7 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
             }
             else {
               $angebot = trim((String)$attribute);
-              $kategorie = $config['sozialpflege']['kategorie'][$angebot];
+              $kategorie = ($versorgungsart == 'Arzt' ? 'az' : $config['sozialpflege']['kategorie'][$angebot]);
             }
             $output .= 'angebot = ' . $angebot . '<br>';
             $output .= 'kategorie = ' . $kategorie;
@@ -95,8 +96,15 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
             $item['kategorie'] = $kategorie;
             break;
           default:
-            $output .= $attribute->getName() . ' = ' . (String)$attribute;
-            $item[$attribute->getName()] = (String)$attribute;
+            $value = (String)$attribute;
+            if ($attribute->getName() == 'versorgungsart') {
+              $versorgungsart = $value;
+              if ($versorgungsart == 'Arzt') {
+                $value = 'Gesundheit';
+              }
+            }
+            $output .= $attribute->getName() . ' = ' . $value;
+            $item[$attribute->getName()] = $value;
         }
         $output .= '<br>';
       }
