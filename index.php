@@ -1,5 +1,5 @@
 <?php
-  $config_file = 'conf/' . ($_REQUEST['c'] != '' ? $_REQUEST['c'] : 'constant.ini');
+  $config_file = 'conf/' . ($_REQUEST['c'] != '' ? $_REQUEST['c'] . '.ini' : 'constant.ini');
 
   if (!file_exists($config_file)) {
     echo 'Konfigurationsdatei: ' . $config_file . ($_REQUEST['c'] != '' ? ' aus dem Parameter c' : '') . ' nicht gefunden.';
@@ -26,6 +26,7 @@
 <?php
   print_r($config);
 ?>
+<br>You can specify the configuration file in Parameter c (e.g. c=constant). The programm append the file extension .ini on the given string to build the configuration file name.
 </pre>
 <h2>WFS Online-Resource</h2>
 <?php
@@ -149,7 +150,9 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
       $output .= 'name = ' . $name;
       $item['name'] = $name;
 */
-      if (!is_null($item['kategorie'])) {
+      if (empty($config['json']['mandatoryAttribute']) or
+         !empty($item[$config['json']['mandatoryAttribute']])) {
+        $output .= '<br>' . $config['json']['mandatoryAttribute'];
         array_push($items, $item);
       }
     }
