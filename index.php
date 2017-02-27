@@ -100,9 +100,9 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
             $point = $attribute->children('gml', true);
             $coordinates= $point->children('gml', true);
             $pair = explode(',', (String)$coordinates);
-            $output .= 'lat: ' . $pair[0] . '<br>';
+            $output .= 'x: ' . $pair[0] . '<br>';
             $item['x'] = $pair[0];
-            $output .= 'lon: ' . $pair[1];
+            $output .= 'y: ' . $pair[1];
             $item['y'] = $pair[1];
             break;
           case "angebot":
