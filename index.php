@@ -1,5 +1,16 @@
 <?php
-  $config = parse_ini_file('constant.ini', true);
+  $config_file = 'conf/' . ($_REQUEST['c'] != '' ? $_REQUEST['c'] . '.ini' : 'constant.ini');
+
+  if (!file_exists($config_file)) {
+    echo 'Konfigurationsdatei: ' . $config_file . ($_REQUEST['c'] != '' ? ' aus dem Parameter c' : '') . ' nicht gefunden.';
+    exit;
+  }
+
+  $config = parse_ini_file($config_file, true);
+  if ($_REQUEST['type_name'] != '') {
+    $config['wfs']['featureType'] = $_REQUEST['type_name'];
+  }
+
   $versorgungsart = '';
 ?>
 <!DOCTYPE html>
@@ -15,6 +26,7 @@
 <?php
   print_r($config);
 ?>
+<br>You can specify the configuration file in Parameter c (e.g. c=constant). The programm append the file extension .ini on the given string to build the configuration file name.
 </pre>
 <h2>WFS Online-Resource</h2>
 <?php
@@ -68,8 +80,11 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
     $item = array();
     if ($featureMember->getName() == 'featureMember') {
       $output .= '<hr>';
-      $feature = $featureMember->children('pflegeportal', true);
-      $attributes = $feature->children('pflegeportal', true);
+      $feature = $featureMember->children($config['wfs']['ns'], true);
+      foreach ($feature->attributes() AS $key => $value) {
+        #echo '<br>Attribute: ' . $key . ' = ' . $value;
+      }
+      $attributes = $feature->children($config['wfs']['ns'], true);
       foreach($attributes AS $attribute) {
         switch ($attribute->getName()) {
           case "msGeometry":
@@ -79,6 +94,15 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
             $output .= 'lat: ' . $pair[0] . '<br>';
             $item['x'] = $pair[0];
             $output .= 'lon: ' . $pair[1];
+            $item['y'] = $pair[1];
+            break;
+          case "the_geom":
+            $point = $attribute->children('gml', true);
+            $coordinates= $point->children('gml', true);
+            $pair = explode(',', (String)$coordinates);
+            $output .= 'x: ' . $pair[0] . '<br>';
+            $item['x'] = $pair[0];
+            $output .= 'y: ' . $pair[1];
             $item['y'] = $pair[1];
             break;
           case "angebot":
@@ -106,8 +130,10 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
             $output .= $attribute->getName() . ' = ' . $value;
             $item[$attribute->getName()] = $value;
         }
+
         $output .= '<br>';
       }
+      
 /*      if ($item['einrichtung'] == "")
         if ($item['traeger'] == "")
           if ($item['eigentuemer'] == "")
@@ -124,7 +150,9 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
       $output .= 'name = ' . $name;
       $item['name'] = $name;
 */
-      if (!is_null($item['kategorie'])) {
+      if (empty($config['json']['mandatoryAttribute']) or
+         !empty($item[$config['json']['mandatoryAttribute']])) {
+        $output .= '<br>' . $config['json']['mandatoryAttribute'];
         array_push($items, $item);
       }
     }
