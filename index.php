@@ -73,7 +73,6 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
   
   $sxe = simplexml_load_string($wfs_text);
 
-  $output = '<pre>';
   $featureMembers = $sxe->children('gml', true);
   $items = array();
   foreach($featureMembers AS $featureMember) {
@@ -97,13 +96,69 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
             $item['y'] = $pair[1];
             break;
           case "the_geom":
-            $point = $attribute->children('gml', true);
-            $coordinates= $point->children('gml', true);
-            $pair = explode(',', (String)$coordinates);
-            $output .= 'x: ' . $pair[0] . '<br>';
-            $item['x'] = $pair[0];
-            $output .= 'y: ' . $pair[1];
-            $item['y'] = $pair[1];
+            $item['geometry'] = array();
+            $geom = $attribute->children('gml', true);
+            switch ($geom->getName()) {
+              case 'Point' : {
+                $item['geometry']['type'] = 'Point';
+                $output .= "geometry['type']: " . $item['geometry']['type'] .'<br>'; 
+
+                $coordinates= $geom->children('gml', true);
+
+                $pair = explode(',', (String)$coordinates);
+                $item['geometry']['coordinates'] = $pair;
+                $output .= "geometry['coordinates']: " . implode(', ', $item['geometry']['coordinates']). '<br>';
+
+                $item['x'] = $pair[0];
+                $item['y'] = $pair[1];
+                $output .= 'x: ' . $item['x'] . '<br>';
+                $output .= 'y: ' . $item['y'];
+              } break;
+              case 'MultiPolygon' : {
+                $item['geometry']['type'] = 'MultiPolygon';
+                $output .= "geometry['type']: " . $item['geometry']['type'];
+
+                $polygonMember = $geom->children('gml', true);
+                $polygon = $polygonMember->children('gml', true);
+                $boundaries = $polygon->children('gml', true);
+                foreach($boundaries AS $boundary) {
+                  $LinearRing = $boundary->children('gml', true);
+                  $coordinates = $LinearRing->children('gml', true);
+                  $item['geometry']['coordinates'][] = array_map(
+                    function($coordinate) {
+                      return array_map(
+                        function($value) {
+                          return floatval($value);
+                        },
+                        explode(',', $coordinate)
+                      );
+                    },
+                    explode(' ', trim((String)$coordinates))
+                  );
+                }
+                $output .= "<br>geometry['coordinate']: " . substr('[' .
+                  implode(
+                    '], [',
+                    array_map(
+                      function($boundary) {
+                        return implode(
+                          ', ',
+                          array_map(
+                            function($coordinate) {
+                              return implode(' ', $coordinate);
+                            },
+                            $boundary
+                          )
+                        );
+                      },
+                      $item['geometry']['coordinates']
+                    )
+                  ) . ']',
+                  0,
+                  255
+                );
+              } break;
+            }
             break;
           case "angebot":
             if ((String)$attribute == "") {
@@ -133,23 +188,7 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
 
         $output .= '<br>';
       }
-      
-/*      if ($item['einrichtung'] == "")
-        if ($item['traeger'] == "")
-          if ($item['eigentuemer'] == "")
-            if ($item['ansprechpartner'] == "")
-              $name = $item['angebot'];
-            else
-              $name = $item['ansprechpartner'];
-          else
-            $name = $item['eigentuemer'];
-        else
-          $name = $item['traeger'];
-      else
-        $name = $item['einrichtung'];
-      $output .= 'name = ' . $name;
-      $item['name'] = $name;
-*/
+
       if (empty($config['json']['mandatoryAttribute']) or
          !empty($item[$config['json']['mandatoryAttribute']])) {
         $output .= '<br>' . $config['json']['mandatoryAttribute'];
@@ -157,7 +196,7 @@ und speicher die konvertierte JSON Datei <?php echo getcwd() . '/' . $config['js
       }
     }
   }
-  $output .= '</pre>';
+
   $json_text = json_encode($items);
   file_put_contents(
     getcwd() .
